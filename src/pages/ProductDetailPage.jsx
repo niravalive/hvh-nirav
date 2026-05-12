@@ -11,12 +11,16 @@ const ProductDetailPage = () => {
     return productsData.find(p => p.id === id);
   }, [id]);
 
-  // All products in the same subcategory
+  // All products in the same specific product group
   const allProducts = useMemo(() => {
     if (!productFromId) return [];
+    const getBaseName = (name) => name.split(' - Variant')[0].trim();
+    const targetBaseName = getBaseName(productFromId.name);
+    
     return productsData.filter(p =>
       p.category === productFromId.category &&
-      p.subCategory === productFromId.subCategory
+      p.subCategory === productFromId.subCategory &&
+      getBaseName(p.name) === targetBaseName
     );
   }, [productFromId]);
 
@@ -75,7 +79,7 @@ const ProductDetailPage = () => {
 
         {/* Back Link */}
         <Link
-          to={`/products?category=${product.category}`}
+          to={`/products?category=${product.category}&sub=${encodeURIComponent(product.subCategory)}`}
           className="inline-flex items-center gap-2 text-primary/40 hover:text-primary font-black uppercase tracking-widest transition-all group pb-10"
         >
           <ArrowLeft size={20} className="group-hover:-translate-x-1 transition-transform" />
@@ -145,7 +149,7 @@ const ProductDetailPage = () => {
             </div>
 
             <h1 className="text-3xl lg:text-5xl font-black text-primary mb-4 leading-tight uppercase tracking-tighter">
-              {product.subCategory}
+              {product.name.split(' - Variant')[0].trim()}
             </h1>
 
             <div className="space-y-3 mb-6">
