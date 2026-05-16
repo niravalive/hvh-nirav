@@ -17,7 +17,7 @@ const ContactFAB = () => {
 
       {/* Email FAB */}
       <a
-        href="mailto:sales@hvhglobal.com?subject=Inquiry from Website"
+        href="mailto:sales@hvhglobals.com?subject=Inquiry from Website"
         className="w-14 h-14 rounded-full bg-primary text-white flex items-center justify-center shadow-lg hover:bg-opacity-90 hover:scale-110 transition-all duration-300 relative group"
         aria-label="Send Email"
       >

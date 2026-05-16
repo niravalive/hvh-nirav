@@ -71,11 +71,11 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center gap-3">
                   <Phone size={20} className="text-accent shrink-0" />
-                  <a href="tel:+919974422663" className="hover:text-accent transition-colors">+91 99477 22663</a>
+                  <a href="tel:+919974422663" className="hover:text-accent transition-colors">+91 99744 22663</a>
                 </li>
                 <li className="flex items-center gap-3">
                   <Mail size={20} className="text-accent shrink-0" />
-                  <a href="mailto:sales@hvhglobal.com" className="hover:text-accent transition-colors">sales@hvhglobal.com</a>
+                  <a href="mailto:sales@hvhglobals.com" className="hover:text-accent transition-colors">sales@hvhglobals.com</a>
                 </li>
               </ul>
             </div>
@@ -94,7 +94,7 @@ const Footer = () => {
                   Message on WhatsApp
                 </a>
                 <a
-                  href="mailto:sales@hvhglobal.com?subject=Export Inquiry"
+                  href="mailto:sales@hvhglobals.com?subject=Export Inquiry"
                   className="flex items-center justify-center gap-2 bg-white/10 border border-white/20 text-white py-3 px-6 rounded-lg font-bold hover:bg-white/20 transition-colors"
                 >
                   Send an Email

@@ -36,7 +36,7 @@ const CTA = () => {
             </div>
 
             <div className="flex items-center justify-center gap-10 text-white/70">
-              <a href="mailto:sales@hvhglobal.com" className="flex items-center gap-3 hover:text-white transition-colors group/link">
+              <a href="mailto:sales@hvhglobals.com" className="flex items-center gap-3 hover:text-white transition-colors group/link">
                 <div className="w-10 h-10 text-black rounded-full bg-white/10 flex items-center justify-center group-hover/link:bg-primary group-hover/link:text-white transition-colors">
                   <Mail size={18} />
                 </div>

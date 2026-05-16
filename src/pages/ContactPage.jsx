@@ -58,7 +58,7 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-black text-accent/60 text-[9px] mb-1 uppercase tracking-widest">Connect With Us</h3>
-                    <a href="tel:+919974422663" className="block text-white text-base lg:text-lg font-black hover:text-accent transition-colors">+91 99477 22663</a>
+                    <a href="tel:+919974422663" className="block text-white text-base lg:text-lg font-black hover:text-accent transition-colors">+91 99744 22663</a>
                     <span className="block text-[9px] text-white/30 mt-0.5 font-bold tracking-widest uppercase">Mon-Fri, 9am - 6pm</span>
                   </div>
                 </div>
@@ -70,7 +70,7 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <h3 className="font-black text-accent/60 text-[9px] mb-1 uppercase tracking-widest">Direct Inquiry</h3>
-                    <a href="mailto:sales@hvhglobal.com" className="block text-white text-base lg:text-lg font-black hover:text-accent transition-colors border-b border-accent/20 pb-0.5">sales@hvhglobal.com</a>
+                    <a href="mailto:sales@hvhglobals.com" className="block text-white text-base lg:text-lg font-black hover:text-accent transition-colors border-b border-accent/20 pb-0.5">sales@hvhglobals.com</a>
                   </div>
                 </div>
               </div>
