@@ -7,15 +7,7 @@ import {
 import { motion } from 'framer-motion';
 import productsData from '../data/products';
 
-// Import images for collection cards
-import cl1Img from '../assets/images/Ceiling_Lights_1.png';
-import bulbImg from '../assets/images/Bulb.png';
-import tubeImg from '../assets/images/tubelights.png';
-import lightingImg from '../assets/images/lighting.png';
-import outdoorImg from '../assets/images/outdoor_lighting.png';
-import handTowelImg from '../assets/images/hand_towel.png';
-import bathTowelImg from '../assets/images/bath_towel.png';
-import bathrobeImg from '../assets/images/bathrobe.png';
+
 const ProductsPage = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
@@ -124,13 +116,13 @@ const ProductsPage = () => {
 
   const decorSubCategories = [
     { name: 'Bedding', icon: Layers, desc: 'Royal suite linens (150-1000 TC) for a 5-star sleep experience.' },
-    { name: 'CUSHION & cushion covers', icon: Layout, desc: 'Custom-designed cushion covers and premium institutional fillers.' },
-    { name: 'Towels & Bathrobe', icon: Sun, desc: 'Hotel-grade towels and robes with superior absorbency and durability.' },
-    { name: 'Curtains Fabrics', icon: Combine, desc: 'Hospitality-grade FR and blackout drapery for hotels and luxury homes.' },
-    { name: 'SOFA & CHAIR Upholstery', icon: Layers, desc: 'Sophisticated, durable fabrics for luxury furniture and contract projects.' },
+    { name: 'Cushion & Covers', icon: Layout, desc: 'Custom-designed cushion covers and premium institutional fillers.' },
+    { name: 'Towels & Bathrobes', icon: Sun, desc: 'Hotel-grade towels and robes with superior absorbency and durability.' },
+    { name: 'Curtain Fabrics', icon: Combine, desc: 'Hospitality-grade FR and blackout drapery for hotels and luxury homes.' },
+    { name: 'Sofa & Chair Upholstery', icon: Layers, desc: 'Sophisticated, durable fabrics for luxury furniture and contract projects.' },
     { name: 'Carpets & Rugs', icon: Combine, desc: 'Hand-tufted and handmade rugs in premium New Zealand wool and silk.' },
-    { name: 'Wallpaper & Wall Art', icon: AppWindow, desc: 'FR-grade architectural wall coverings and bespoke hand-painted decor.' },
-    { name: 'FABRIC BAG', icon: Combine, desc: 'Artisanal travel bags and eco-friendly totes for international retail.' }
+    { name: 'Wallarts & Wallpaper', icon: AppWindow, desc: 'FR-grade architectural wall coverings and bespoke hand-painted decor.' },
+    { name: 'Fabric Bags & Jute Bags', icon: Combine, desc: 'Artisanal travel bags and eco-friendly totes for international retail.' }
   ];
 
   const activeSubCategories = useMemo(() => {
@@ -237,7 +229,7 @@ const ProductsPage = () => {
                     <>
                       <div
                         className="absolute inset-0 bg-cover bg-center transition-transform duration-700 group-hover:scale-110"
-                        style={{ backgroundImage: `url(${bgImg})` }}
+                        style={{ backgroundImage: `url('${bgImg}')` }}
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/50 to-black/40 group-hover:from-black/90 group-hover:via-black/60 transition-colors duration-500" />
                     </>
@@ -254,72 +246,8 @@ const ProductsPage = () => {
           </div>
         )}
 
-        {/* Lighting Sub-Sub Categories Overview (Special Landing for Lighting) */}
-        {categoryFilter === 'electricals' && subFilter === 'Lighting' && !subSubFilter && (
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto mb-16">
-            {[
-              {
-                name: 'Ceiling Light',
-                title: 'Ceiling Light',
-                desc: 'Premium recessed panel and spot lights with anti-glare technology.',
-                image: productsData.find(p => p.subSubCategory === 'Ceiling Light')?.image
-              },
-              {
-                name: 'Tubelights & Bulbs',
-                title: 'Tubelights & Bulbs',
-                desc: 'Energy-saving LED tubelights and architectural bulbs for consistent illumination.',
-                image: productsData.find(p => p.subSubCategory === 'Tubelights & Bulbs')?.image
-              },
-              {
-                name: 'Decorative Lighting',
-                title: 'Decorative Lighting',
-                desc: 'RGB strips, COB chips, and designer lighting for luxury interiors and accentuation.',
-                image: productsData.find(p => p.subSubCategory === 'Decorative Lighting')?.image
-              },
-              {
-                name: 'Outdoor Lighting',
-                title: 'Outdoor Lighting',
-                desc: 'High-performance architectural outdoor lighting for facades, stadiums, and landscape.',
-                image: productsData.find(p => p.subSubCategory === 'Outdoor Lighting')?.image
-              }
-            ].map((col) => (
-              <motion.button
-                key={col.name}
-                whileHover={{ y: -10 }}
-                onClick={() => setSearchParams({ category: 'electricals', sub: 'Lighting', subsub: col.name })}
-                className="bg-white rounded-[2.5rem] border border-accent/10 overflow-hidden shadow-sm hover:shadow-2xl transition-all group text-left"
-              >
-                <div className="aspect-[4/5] overflow-hidden relative bg-primary/5">
-                  <img
-                    src={col.image}
-                    alt={col.title}
-                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000"
-                  />
-                  <div className="absolute top-6 left-6">
-                    <span className="bg-primary text-accent px-4 py-1.5 rounded-full text-[10px] font-black uppercase tracking-widest border border-accent/20">
-                      Lighting
-                    </span>
-                  </div>
-                </div>
-                <div className="p-8 text-center group-hover:bg-primary transition-colors duration-500">
-                  <h3 className="text-xl font-black text-primary group-hover:text-white transition-colors uppercase tracking-tight mb-3 line-clamp-2">
-                    {col.title}
-                  </h3>
-                  <p className="text-primary/40 group-hover:text-accent/60 transition-colors text-sm font-bold mb-6 line-clamp-2">
-                    {col.desc}
-                  </p>
-                  <div className="flex items-center justify-center gap-2 text-accent font-black text-xs uppercase tracking-widest opacity-0 group-hover:opacity-100 transition-all transform translate-y-2 group-hover:translate-y-0">
-                    Explore Collection <ArrowUpRight size={14} />
-                  </div>
-                </div>
-              </motion.button>
-            ))}
-          </div>
-        )}
-
-
-        {/* Product Grid & Filters (If a specific sub-category or sub-sub-category list is active) */}
-        {categoryFilter && subFilter && (subFilter !== 'Lighting' || subSubFilter) && (
+        {/* Product Grid & Filters (If a specific sub-category is active) */}
+        {categoryFilter && subFilter && (
           <>
             <motion.div
               initial={{ opacity: 0, y: 15 }}
@@ -401,7 +329,13 @@ const ProductsPage = () => {
                           {isMulti ? (
                             <div className="w-full h-full grid grid-cols-2 grid-rows-2 gap-0.5">
                               {images.map((img, idx) => (
-                                <div key={idx} className="overflow-hidden relative">
+                                <div 
+                                  key={idx} 
+                                  className={`overflow-hidden relative ${
+                                    images.length === 3 && idx === 2 ? 'col-span-2' :
+                                    images.length === 2 ? 'col-span-2' : ''
+                                  }`}
+                                >
                                   <img
                                     src={img}
                                     alt={`${group.baseName} ${idx + 1}`}

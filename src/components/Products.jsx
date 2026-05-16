@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowUpRight, Zap, Combine } from 'lucide-react';
 import { motion } from 'framer-motion';
-import cablesImg from '../assets/images/cables.png';
-import curtainsImg from '../assets/images/curtains.png';
+import cablesImg from '../assets/images/electrical_hero.jpg';
+import curtainsImg from '../assets/images/home_decor_hero.jpg';
 
 const Products = () => {
   const products = [

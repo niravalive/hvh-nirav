@@ -2,8 +2,8 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Award, Target } from 'lucide-react';
 import AnimatedCounter from './AnimatedCounter';
-import aboutIndustrial from '../assets/images/about-industrial.png';
-import furnishingProduct from '../assets/images/furnishing_product.png';
+import aboutIndustrial from '../assets/images/about_industrial_real.png';
+import furnishingProduct from '../assets/images/about_furnishing_real.jpg';
 
 const About = () => {
   return (

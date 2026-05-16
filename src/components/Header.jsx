@@ -58,14 +58,7 @@ const Header = () => {
       dropdown: [
         {
           name: 'ELECTRICALS',
-          href: '/products?category=electricals',
-          subDropdown: [
-            { name: 'Wire and Cable', href: '/products?category=electricals&sub=Wire%20and%20Cable' },
-            { name: 'Cable Accessories', href: '/products?category=electricals&sub=Cable%20Accessories' },
-            { name: 'Switch and Accessories', href: '/products?category=electricals&sub=Switch%20and%20Accessories' },
-            { name: 'Switchgears', href: '/products?category=electricals&sub=Switchgears' },
-            { name: 'Industrial & Indoor Lighting', href: '/products?category=electricals&sub=Lighting' }
-          ]
+          href: '/products?category=electricals'
         },
         {
           name: 'HOME DECOR & FURNISHING',

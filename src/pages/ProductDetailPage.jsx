@@ -79,11 +79,14 @@ const ProductDetailPage = () => {
 
         {/* Back Link */}
         <Link
-          to={`/products?category=${product.category}&sub=${encodeURIComponent(product.subCategory)}`}
+          to={product.category === 'home-decor' 
+            ? `/products?category=home-decor` 
+            : `/products?category=${product.category}&sub=${encodeURIComponent(product.subCategory)}`
+          }
           className="inline-flex items-center gap-2 text-primary/40 hover:text-primary font-black uppercase tracking-widest transition-all group pb-10"
         >
           <ArrowLeft size={20} className="group-hover:-translate-x-1 transition-transform" />
-          Back to Products
+          Back to {product.category === 'home-decor' ? 'Home Decor' : 'Products'}
         </Link>
 
         {/* Main Layout */}

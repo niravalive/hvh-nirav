@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Search, ShieldCheck, Package, FileCheck, Truck, CircleCheckBig } from 'lucide-react';
-import heroBgDoodle from '../assets/images/hero_bg_doodle.png';
+import heroBgDoodle from '../assets/images/export_process_real.png';
 
 const ExportProcess = () => {
   const steps = [

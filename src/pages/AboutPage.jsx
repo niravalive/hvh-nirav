@@ -6,12 +6,12 @@ import {
   User
 } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import aboutIndustrial from '../assets/images/about-industrial.png';
-import furnishingProduct from '../assets/images/furnishing_product.png';
-import industrialWorkNew from '../assets/images/industrial_work_new.png';
-import premiumMarbleNew from '../assets/images/premium_marble_new.png';
-import elegantFurnitureNew from '../assets/images/elegant_furniture_new.png';
-import globalLogisticsNew from '../assets/images/global_logistics_new.png';
+import aboutIndustrial from '../assets/images/about_industrial_real.png';
+import furnishingProduct from '../assets/images/about_furnishing_real.jpg';
+import industrialWorkNew from '../assets/images/industrial_work_real.jpg';
+import premiumMarbleNew from '../assets/images/premium_real.jpg';
+import elegantFurnitureNew from '../assets/images/elegant_furniture_real.jpg';
+import globalLogisticsNew from '../assets/images/global_logistics_real.jpg';
 
 // Logo Imports
 import globaltech from '../assets/logos/globaltech.png';
