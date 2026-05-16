@@ -8,10 +8,10 @@ import {
 import { Link } from 'react-router-dom';
 import aboutIndustrial from '../assets/images/about_industrial_real.png';
 import furnishingProduct from '../assets/images/about_furnishing_real.jpg';
-import industrialWorkNew from '../assets/images/industrial_work_real.jpg';
-import premiumMarbleNew from '../assets/images/premium_real.jpg';
-import elegantFurnitureNew from '../assets/images/elegant_furniture_real.jpg';
-import globalLogisticsNew from '../assets/images/global_logistics_real.jpg';
+import industrialWorkNew from '../assets/images/industrial_work_new-BC10X50S.png';
+import premiumMarbleNew from '../assets/images/premium_marble_new-BPRKDHFx.png';
+import elegantFurnitureNew from '../assets/images/elegant_furniture_new-DvGesX4C.png';
+import globalLogisticsNew from '../assets/images/global_logistics_new-MNN6latO.png';
 
 // Logo Imports
 import globaltech from '../assets/logos/globaltech.png';
