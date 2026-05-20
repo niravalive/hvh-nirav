@@ -1,7 +1,39 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Mail, Phone, MapPin, Zap } from 'lucide-react';
 
 const ContactPage = () => {
+  const [result, setResult] = useState("");
+  const [status, setStatus] = useState(""); // "success" | "error" | "sending" | ""
+
+  const onSubmit = async (event) => {
+    event.preventDefault();
+    setStatus("sending");
+    setResult("Sending inquiry...");
+
+    const formData = new FormData(event.target);
+    formData.append("access_key", "3f260029-3cad-4338-ab08-5c8e1e3f6f30");
+
+    try {
+      const response = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        body: formData
+      });
+
+      const data = await response.json();
+      if (data.success) {
+        setStatus("success");
+        setResult("Thank you! Your inquiry has been submitted successfully.");
+        event.target.reset();
+      } else {
+        setStatus("error");
+        setResult(data.message || "An error occurred. Please try again.");
+      }
+    } catch (error) {
+      setStatus("error");
+      setResult("Failed to send the message. Please check your internet connection.");
+    }
+  };
+
   return (
     <div className="lg:h-screen pt-16 lg:pt-20 bg-gray-50 flex items-center justify-center relative overflow-hidden font-sans">
       {/* Decorative background element */}
@@ -94,33 +126,33 @@ const ContactPage = () => {
                 <p className="text-primary/50 font-black text-[10px] uppercase tracking-wider">Detailed specifications help us provide more accurate volume quotes.</p>
               </div>
 
-              <form className="flex flex-col gap-4 lg:gap-5" onSubmit={(e) => e.preventDefault()}>
+              <form className="flex flex-col gap-4 lg:gap-5" onSubmit={onSubmit}>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-5">
                   <div className="flex flex-col gap-1.5">
                     <label className="text-[9px] font-black uppercase tracking-widest text-primary/30 ml-1">First Name</label>
-                    <input type="text" placeholder="John" className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
+                    <input type="text" name="first_name" required placeholder="John" className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
                   </div>
                   <div className="flex flex-col gap-1.5">
                     <label className="text-[9px] font-black uppercase tracking-widest text-primary/30 ml-1">Last Name</label>
-                    <input type="text" placeholder="Doe" className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
+                    <input type="text" name="last_name" required placeholder="Doe" className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
                   </div>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 lg:gap-5">
                   <div className="flex flex-col gap-1.5">
                     <label className="text-[9px] font-black uppercase tracking-widest text-primary/30 ml-1">Email Address</label>
-                    <input type="email" placeholder="john@company.com" className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
+                    <input type="email" name="email" required placeholder="john@company.com" className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
                   </div>
                   <div className="flex flex-col gap-1.5">
                     <label className="text-[9px] font-black uppercase tracking-widest text-primary/30 ml-1">Company Name</label>
-                    <input type="text" placeholder="ABC Corp" className="px-4 py-2.5 rounded-xl border border-gray-200 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
+                    <input type="text" name="company" placeholder="ABC Corp" className="px-4 py-2.5 rounded-xl border border-gray-200 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold placeholder:text-gray-300 text-xs" />
                   </div>
                 </div>
 
                 <div className="flex flex-col gap-1.5">
                   <label className="text-[9px] font-black uppercase tracking-widest text-primary/30 ml-1">Category of Interest</label>
                   <div className="relative">
-                    <select className="w-full px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold appearance-none cursor-pointer text-xs">
+                    <select name="category" className="w-full px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white text-primary font-bold appearance-none cursor-pointer text-xs">
                       <option value="wires">Industrial Wires & Cables</option>
                       <option value="furnishing">Commercial Furnishing</option>
                       <option value="both">Multiple Categories</option>
@@ -134,13 +166,28 @@ const ContactPage = () => {
 
                 <div className="flex flex-col gap-1.5">
                   <label className="text-[9px] font-black uppercase tracking-widest text-primary/30 ml-1">Message / Project Requirements</label>
-                  <textarea rows="2" placeholder="Please detail the specifications, quantity, or volume you require..." className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white resize-none text-primary font-bold placeholder:text-gray-300 text-xs"></textarea>
+                  <textarea name="message" required rows="2" placeholder="Please detail the specifications, quantity, or volume you require..." className="px-4 py-2.5 rounded-xl border border-gray-100 focus:ring-2 focus:ring-accent/50 focus:border-transparent outline-none transition-all bg-gray-50/50 focus:bg-white resize-none text-primary font-bold placeholder:text-gray-300 text-xs"></textarea>
                 </div>
 
+                {result && (
+                  <div className={`p-4 rounded-xl text-xs font-bold transition-all duration-300 ${
+                    status === "sending" ? "bg-accent/10 text-primary border border-accent/20 animate-pulse" :
+                    status === "success" ? "bg-emerald-50 text-emerald-800 border border-emerald-200" :
+                    "bg-rose-50 text-rose-800 border border-rose-200"
+                  }`}>
+                    <div className="flex items-center gap-2.5">
+                      {status === "sending" && (
+                        <div className="w-3.5 h-3.5 rounded-full border-2 border-primary border-t-transparent animate-spin shrink-0"></div>
+                      )}
+                      <span>{result}</span>
+                    </div>
+                  </div>
+                )}
+
                 <div className="flex justify-start pt-2">
-                  <button type="submit" className="bg-primary text-accent py-3.5 px-10 rounded-full font-black text-base lg:text-lg hover-lift shadow-xl shadow-primary/20 transition-all w-full md:w-auto uppercase tracking-tighter flex items-center justify-center gap-3 group">
-                    Submit Inquiry
-                    <Zap size={16} className="group-hover:rotate-12 transition-transform" />
+                  <button type="submit" disabled={status === "sending"} className="bg-primary text-accent py-3.5 px-10 rounded-full font-black text-base lg:text-lg hover-lift shadow-xl shadow-primary/20 transition-all w-full md:w-auto uppercase tracking-tighter flex items-center justify-center gap-3 group disabled:opacity-50 disabled:cursor-not-allowed">
+                    {status === "sending" ? "Sending..." : "Submit Inquiry"}
+                    <Zap size={16} className={`group-hover:rotate-12 transition-transform ${status === "sending" ? "animate-pulse" : ""}`} />
                   </button>
                 </div>
               </form>
