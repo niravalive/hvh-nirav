@@ -6,8 +6,8 @@ with open(file_path, 'r', encoding='utf-8') as f:
     content = f.read()
 
 metadata_map = {
-    "Singlescore": {
-        "desc": "KEI House wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
+    "Single Core": {
+        "desc": " wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
         "specs": "Voltage Grade: Upto 1100 V | Sizes: 0.5 sq.mm to 16.0 sq.mm",
         "features": ["Flame Retardant (FR/FR-LSH/ZHFR)", "Annealed Bare/Tinned Copper", "High Oxygen & Temperature Index", "100% Eco-Friendly (ZHFR)"],
         "keyPoints": ["Applicable Standards: IS:694, BS:6004, IEC-60228", "Safe evacuation in emergency", "Available in Coils/Drums/Reels"]

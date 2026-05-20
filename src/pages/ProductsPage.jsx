@@ -89,7 +89,7 @@ const ProductsPage = () => {
   }, [filteredProducts]);
 
   const handleSubSwitch = (sub) => {
-    const internalSub = sub === 'Industrial & Indoor Lighting' ? 'Lighting' : sub;
+    const internalSub = sub === 'Lighting' ? 'Lighting' : sub;
     if (categoryFilter === 'electricals') {
       // Keep the sub-category step for Electricals
       setSearchParams({ category: categoryFilter, sub: internalSub });
@@ -110,7 +110,7 @@ const ProductsPage = () => {
     { name: 'Wire and Cable', icon: Zap, desc: 'Premium FR/FRLS house wires and heavy-duty industrial power cables.' },
     { name: 'Switch and Accessories', icon: Layers, desc: 'Elite modular switches and smart touch panels for luxury interiors.' },
     { name: 'Switchgears', icon: Shield, desc: 'Advanced circuit protection (MCB/RCCB) for global infrastructure projects.' },
-    { name: 'Industrial & Indoor Lighting', icon: Sun, desc: 'Energy-efficient architectural, industrial, and outdoor LED solutions.' },
+    { name: 'Lighting', icon: Sun, desc: 'Energy-efficient architectural, industrial, and outdoor LED solutions.' },
     { name: 'Cable Accessories', icon: Settings, desc: 'High-quality cable glands, lugs, and ties for secure industrial terminations.' }
   ];
 
@@ -128,7 +128,7 @@ const ProductsPage = () => {
   const activeSubCategories = useMemo(() => {
     const base = categoryFilter === 'electricals' ? electricalSubCategories : decorSubCategories;
     return base.filter(subCat =>
-      productsData.some(p => p.category === categoryFilter && (p.subCategory === subCat.name || (subCat.name === 'Industrial & Indoor Lighting' && p.subCategory === 'Lighting')))
+      productsData.some(p => p.category === categoryFilter && (p.subCategory === subCat.name || (subCat.name === 'Lighting' && p.subCategory === 'Lighting')))
     );
   }, [categoryFilter, electricalSubCategories, decorSubCategories]);
 
@@ -161,7 +161,7 @@ const ProductsPage = () => {
 
           <h1 className="text-4xl lg:text-6xl font-black text-primary mb-6 uppercase tracking-tight">
             {subSubFilter ? subSubFilter :
-              subFilter === 'Lighting' ? 'Industrial & Indoor Lighting' :
+              subFilter === 'Lighting' ? 'Lighting' :
                 subFilter ? subFilter :
                   categoryFilter === 'electricals' ? 'Electrical Solutions' :
                     categoryFilter === 'home-decor' ? 'Home Decor & Furnishing' :
@@ -169,7 +169,7 @@ const ProductsPage = () => {
           </h1>
           <p className="text-xl text-primary/40 leading-relaxed font-medium">
             {categoryFilter
-              ? `Exploring premium ${subSubFilter || (subFilter === 'Lighting' ? 'Industrial & Indoor Lighting' : subFilter) || categoryFilter.replace('-', ' ')} for international export.`
+              ? `Exploring premium ${subSubFilter || (subFilter === 'Lighting' ? 'Lighting' : subFilter) || categoryFilter.replace('-', ' ')} for international export.`
               : 'Select a primary category to explore our curated high-end offerings.'}
           </p>
         </motion.div>
@@ -217,7 +217,7 @@ const ProductsPage = () => {
             {activeSubCategories.map((sc) => {
               const bgImg = productsData.find(p =>
                 p.subCategory === sc.name ||
-                (sc.name === 'Industrial & Indoor Lighting' && p.subCategory === 'Lighting')
+                (sc.name === 'Lighting' && p.subCategory === 'Lighting')
               )?.image;
               return (
                 <button
@@ -299,7 +299,7 @@ const ProductsPage = () => {
 
             <div className="flex items-center justify-between mb-8">
               <h2 className="text-2xl font-black text-primary uppercase tracking-tighter">
-                {subSubFilter || (subFilter === 'Lighting' ? 'Industrial & Indoor Lighting' : subFilter) || categoryFilter} Collection
+                {subSubFilter || (subFilter === 'Lighting' ? 'Lighting' : subFilter) || categoryFilter} Collection
               </h2>
               <span className="text-primary/40 font-bold">{filteredProducts.length} Products</span>
             </div>
