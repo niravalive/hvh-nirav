@@ -4,420 +4,677 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 1",
-    "desc": "Wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
-    "specs": "Voltage Grade: Upto 1100 V | Sizes: 0.5 sq.mm to 16.0 sq.mm",
-    "features": ["Flame Retardant (FR/FR-LSH/ZHFR)", "Annealed Bare/Tinned Copper", "High Oxygen & Temperature Index", "100% Eco-Friendly (ZHFR)"],
+    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
+    "features": [
+      "Flame Retardant (FR/FR-LSH/ZHFR)",
+      "Annealed Bare/Tinned Copper",
+      "High Oxygen & Temperature Index",
+      "100% Eco-Friendly (ZHFR)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/1. singlescore/3f3cf85fe1001fda184556bdd85a5f4d.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, BS:6004, IEC-60228", "Safe evacuation in emergency", "Available in Coils/Drums/Reels"]
+    "keyPoints": [
+      "Applicable Standards: IS:694, BS:6004, BS:6500, BS:7211, IS:10418, BS:7655, IEC-60228, BS:6360, IS:8130, BSEN-50525-3-41",
+      "PACKAGING: Coils/Drums/Reels of Wooden Shrink wrap",
+      "Safe evacuation in emergency"
+    ]
   },
   {
     "id": "prod-elec-2",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 2",
-    "desc": "Wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
-    "specs": "Voltage Grade: Upto 1100 V | Sizes: 0.5 sq.mm to 16.0 sq.mm",
-    "features": ["Flame Retardant (FR/FR-LSH/ZHFR)", "Annealed Bare/Tinned Copper", "High Oxygen & Temperature Index", "100% Eco-Friendly (ZHFR)"],
+    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
+    "features": [
+      "Flame Retardant (FR/FR-LSH/ZHFR)",
+      "Annealed Bare/Tinned Copper",
+      "High Oxygen & Temperature Index",
+      "100% Eco-Friendly (ZHFR)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/1. singlescore/Electrical-wirings-1024x434.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, BS:6004, IEC-60228", "Safe evacuation in emergency", "Available in Coils/Drums/Reels"]
+    "keyPoints": [
+      "Applicable Standards: IS:694, BS:6004, BS:6500, BS:7211, IS:10418, BS:7655, IEC-60228, BS:6360, IS:8130, BSEN-50525-3-41",
+      "PACKAGING: Coils/Drums/Reels of Wooden Shrink wrap",
+      "Safe evacuation in emergency"
+    ]
   },
   {
     "id": "prod-elec-3",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 3",
-    "desc": "Wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
-    "specs": "Voltage Grade: Upto 1100 V | Sizes: 0.5 sq.mm to 16.0 sq.mm",
-    "features": ["Flame Retardant (FR/FR-LSH/ZHFR)", "Annealed Bare/Tinned Copper", "High Oxygen & Temperature Index", "100% Eco-Friendly (ZHFR)"],
+    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
+    "features": [
+      "Flame Retardant (FR/FR-LSH/ZHFR)",
+      "Annealed Bare/Tinned Copper",
+      "High Oxygen & Temperature Index",
+      "100% Eco-Friendly (ZHFR)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/1. singlescore/HOUSE.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, BS:6004, IEC-60228", "Safe evacuation in emergency", "Available in Coils/Drums/Reels"]
+    "keyPoints": [
+      "Applicable Standards: IS:694, BS:6004, BS:6500, BS:7211, IS:10418, BS:7655, IEC-60228, BS:6360, IS:8130, BSEN-50525-3-41",
+      "PACKAGING: Coils/Drums/Reels of Wooden Shrink wrap",
+      "Safe evacuation in emergency"
+    ]
   },
   {
     "id": "prod-elec-4",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 4",
-    "desc": "Wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
-    "specs": "Voltage Grade: Upto 1100 V | Sizes: 0.5 sq.mm to 16.0 sq.mm",
-    "features": ["Flame Retardant (FR/FR-LSH/ZHFR)", "Annealed Bare/Tinned Copper", "High Oxygen & Temperature Index", "100% Eco-Friendly (ZHFR)"],
+    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
+    "features": [
+      "Flame Retardant (FR/FR-LSH/ZHFR)",
+      "Annealed Bare/Tinned Copper",
+      "High Oxygen & Temperature Index",
+      "100% Eco-Friendly (ZHFR)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/1. singlescore/aae32ce8eded1f3da44b97724e9c9c4f.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, BS:6004, IEC-60228", "Safe evacuation in emergency", "Available in Coils/Drums/Reels"]
+    "keyPoints": [
+      "Applicable Standards: IS:694, BS:6004, BS:6500, BS:7211, IS:10418, BS:7655, IEC-60228, BS:6360, IS:8130, BSEN-50525-3-41",
+      "PACKAGING: Coils/Drums/Reels of Wooden Shrink wrap",
+      "Safe evacuation in emergency"
+    ]
   },
   {
     "id": "prod-elec-5",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 5",
-    "desc": "Wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
-    "specs": "Voltage Grade: Upto 1100 V | Sizes: 0.5 sq.mm to 16.0 sq.mm",
-    "features": ["Flame Retardant (FR/FR-LSH/ZHFR)", "Annealed Bare/Tinned Copper", "High Oxygen & Temperature Index", "100% Eco-Friendly (ZHFR)"],
+    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
+    "features": [
+      "Flame Retardant (FR/FR-LSH/ZHFR)",
+      "Annealed Bare/Tinned Copper",
+      "High Oxygen & Temperature Index",
+      "100% Eco-Friendly (ZHFR)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/1. singlescore/electrical-wire-1-mm-for-home-2188161088-llb2x372.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, BS:6004, IEC-60228", "Safe evacuation in emergency", "Available in Coils/Drums/Reels"]
+    "keyPoints": [
+      "Applicable Standards: IS:694, BS:6004, BS:6500, BS:7211, IS:10418, BS:7655, IEC-60228, BS:6360, IS:8130, BSEN-50525-3-41",
+      "PACKAGING: Coils/Drums/Reels of Wooden Shrink wrap",
+      "Safe evacuation in emergency"
+    ]
   },
   {
     "id": "prod-elec-6",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 6",
-    "desc": "Wires featuring FR/FRLS/ZHFR compounds for enhanced safety. Withstands overloads and retards fire spread.",
-    "specs": "Voltage Grade: Upto 1100 V | Sizes: 0.5 sq.mm to 16.0 sq.mm",
-    "features": ["Flame Retardant (FR/FR-LSH/ZHFR)", "Annealed Bare/Tinned Copper", "High Oxygen & Temperature Index", "100% Eco-Friendly (ZHFR)"],
+    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
+    "features": [
+      "Flame Retardant (FR/FR-LSH/ZHFR)",
+      "Annealed Bare/Tinned Copper",
+      "High Oxygen & Temperature Index",
+      "100% Eco-Friendly (ZHFR)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/1. singlescore/kinds-of-electrical-wire-pictures-house-wiring-electricity-11563199420fmbgywud0n.png",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, BS:6004, IEC-60228", "Safe evacuation in emergency", "Available in Coils/Drums/Reels"]
+    "keyPoints": [
+      "Applicable Standards: IS:694, BS:6004, BS:6500, BS:7211, IS:10418, BS:7655, IEC-60228, BS:6360, IS:8130, BSEN-50525-3-41",
+      "PACKAGING: Coils/Drums/Reels of Wooden Shrink wrap",
+      "Safe evacuation in emergency"
+    ]
   },
   {
     "id": "prod-elec-7",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 1",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/Electrical-Wire-1.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-8",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 2",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/Multicore-Cable.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-9",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 3",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/PVC-Multi-Core-Flexible-Cable..jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-10",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 4",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/abdf32b0f84d769ea8a60dc3bb0d0e6f.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-11",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 5",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/b6dcd628e284b52d4116cb60ff0ac41b.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-12",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 6",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/dd803ba89916f9d500454afe5844121d.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-13",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 7",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/multi-core-flexible-wire-500x500.webp",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-14",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Multicore Flexible - Variant 8",
-    "desc": "Premium single and multicore flexible cables for versatile industrial and domestic applications.",
-    "specs": "Voltage Grade: Upto 1100 V | Single Core: 0.5 to 1000 sq.mm | Multicore: 0.5 to 120 sq.mm",
-    "features": ["Bare/Tinned Copper Conductor", "PVC/FRLS/LSZH Insulation", "Customized designs available", "Highly flexible design"],
+    "desc": "MULTICORE FLEXIBLE CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Bare Copper/Tinned Copper\nINSULATION: PVC/HRPVC/FRLS/FR/LSZH\nSHEATH (FOR FLEXIBLE CABLES): PVC/FRLS/LSZH/FR\nVOLTAGE GRADE: Up to 1100 V",
+    "features": [
+      "Single Core Flexibles: 0.5 sq.mm. up to 1000 sq.mm.",
+      "Multicore Flexible Cables: 0.5 sq.mm. up to 120 sq.mm. (from 2C to 4C)",
+      "In Smaller Size up to 2.5 sq.mm. (Up to 24C)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/2. multicore flexible/multicore-rounded.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:694, IEC-60228, BSEN:50525-3-41", "Available in 2C to 24C", "Packed in Coils, Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS:6004, BS:6500, IS:694, IS:8130, IS:10418, BS:7655, IEC-60228, BS:6360, BS:7211, BSEN:50525-3-41",
+      "PACKING: Coils, Wooden/Steel Drums/ABS"
+    ]
   },
   {
     "id": "prod-elec-15",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Lv Power And Control Cable - Variant 1",
-    "desc": "Low Voltage Power & Control Cables designed for rugged power distribution and precision control.",
-    "specs": "Voltage Grade: Up to 3.3kV | Power: Up to 1000 sq.mm (5 cores) | Control: Up to 6.0 sq.mm (61 cores)",
-    "features": ["Copper/Aluminium Conductor", "XLPE/PVC/LSZH Insulation", "Extensive Armouring Options", "FRLS/LSZH Sheath available"],
+    "desc": "LV POWER & CONTROL CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Copper (Plain/Tinned), Aluminium\nINSULATION: XLPE/PVC/HRPVC/LSZH\nINNER/OUTER SHEATH: PVC/HRPVC/HDPE/FR/FRLS/LSZH\nARMOUR: GS Wire/GS Strip/Al Wire/Al Strip/GS Tape/Al Tape/ATC Braid/SS Braid/GS Braiding\nVOLTAGE GRADE: Up to 3.3 kV",
+    "features": [
+      "Conductor Size up to 1000 sq.mm.",
+      "Power Cables up to 5 cores",
+      "Control Cables: up to 61 Cores, from 0.5 sq.mm. to 6.0 sq.mm."
+    ],
     "image": "/ELECTRICAL/1. wire and cables/3. LV POWER & CONTROL CABLE/7206b6b0d9d8ca815fc86bfad4126289.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC-60502-1, IS 1554-1, IS-7098-1/2", "Galvanised Steel/Aluminium Armouring", "Packed in Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC-60502-1, BS 6346, BS 5467, BS 6622, IS 1554-1, IS-7098-1/2",
+      "PACKING: Wooden/Steel Drums"
+    ]
   },
   {
     "id": "prod-elec-16",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Lv Power And Control Cable - Variant 2",
-    "desc": "Low Voltage Power & Control Cables designed for rugged power distribution and precision control.",
-    "specs": "Voltage Grade: Up to 3.3kV | Power: Up to 1000 sq.mm (5 cores) | Control: Up to 6.0 sq.mm (61 cores)",
-    "features": ["Copper/Aluminium Conductor", "XLPE/PVC/LSZH Insulation", "Extensive Armouring Options", "FRLS/LSZH Sheath available"],
+    "desc": "LV POWER & CONTROL CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Copper (Plain/Tinned), Aluminium\nINSULATION: XLPE/PVC/HRPVC/LSZH\nINNER/OUTER SHEATH: PVC/HRPVC/HDPE/FR/FRLS/LSZH\nARMOUR: GS Wire/GS Strip/Al Wire/Al Strip/GS Tape/Al Tape/ATC Braid/SS Braid/GS Braiding\nVOLTAGE GRADE: Up to 3.3 kV",
+    "features": [
+      "Conductor Size up to 1000 sq.mm.",
+      "Power Cables up to 5 cores",
+      "Control Cables: up to 61 Cores, from 0.5 sq.mm. to 6.0 sq.mm."
+    ],
     "image": "/ELECTRICAL/1. wire and cables/3. LV POWER & CONTROL CABLE/764144fc61499ced363595e60c09bc0d.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC-60502-1, IS 1554-1, IS-7098-1/2", "Galvanised Steel/Aluminium Armouring", "Packed in Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC-60502-1, BS 6346, BS 5467, BS 6622, IS 1554-1, IS-7098-1/2",
+      "PACKING: Wooden/Steel Drums"
+    ]
   },
   {
     "id": "prod-elec-17",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Lv Power And Control Cable - Variant 3",
-    "desc": "Low Voltage Power & Control Cables designed for rugged power distribution and precision control.",
-    "specs": "Voltage Grade: Up to 3.3kV | Power: Up to 1000 sq.mm (5 cores) | Control: Up to 6.0 sq.mm (61 cores)",
-    "features": ["Copper/Aluminium Conductor", "XLPE/PVC/LSZH Insulation", "Extensive Armouring Options", "FRLS/LSZH Sheath available"],
+    "desc": "LV POWER & CONTROL CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "CONDUCTOR: Copper (Plain/Tinned), Aluminium\nINSULATION: XLPE/PVC/HRPVC/LSZH\nINNER/OUTER SHEATH: PVC/HRPVC/HDPE/FR/FRLS/LSZH\nARMOUR: GS Wire/GS Strip/Al Wire/Al Strip/GS Tape/Al Tape/ATC Braid/SS Braid/GS Braiding\nVOLTAGE GRADE: Up to 3.3 kV",
+    "features": [
+      "Conductor Size up to 1000 sq.mm.",
+      "Power Cables up to 5 cores",
+      "Control Cables: up to 61 Cores, from 0.5 sq.mm. to 6.0 sq.mm."
+    ],
     "image": "/ELECTRICAL/1. wire and cables/3. LV POWER & CONTROL CABLE/f443d5638053cf2e2de2fc6b67552602.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC-60502-1, IS 1554-1, IS-7098-1/2", "Galvanised Steel/Aluminium Armouring", "Packed in Wooden/Steel Drums"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC-60502-1, BS 6346, BS 5467, BS 6622, IS 1554-1, IS-7098-1/2",
+      "PACKING: Wooden/Steel Drums"
+    ]
   },
   {
     "id": "prod-elec-18",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Hv  And Hv Cables - Variant 1",
-    "desc": "High Voltage and Medium Voltage cables engineered for robust long-distance power transmission.",
-    "specs": "Voltage Rating: High/Medium Voltage | Armour: Steel/Aluminium/Copper Tape",
-    "features": ["PVC/LSZH/FRLS Outer Sheath", "Galvanised Steel Wire/Tape Armour", "Customizable design", "Extremely durable"],
+    "desc": "HV/MV CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: 3300 to 33000 Volts (For XLPE/RUBBER), Up to 33000 Volts (For RUBBER)\nCONDUCTOR: Annealed Bare/Tinned Copper/Aluminium (Water-blocked conductors available on request)\nINSULATION: XLPE/RUBBER",
+    "features": [
+      "Single Core Cables: Up to 1600 sq.mm.",
+      "Three Core Cables: Up to 400 sq.mm.",
+      "METALLIC SCREEN: Copper Tape/Wire screening, Metallic Lead Sheath, Corrugated Al/Cu/Steel",
+      "ARMOUR: Galvanised Steel Wire/Flat Strip Armour/Aluminum Wire/Armour/Tape Armour"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/4. HV  & HV CABLES/HV CABLE.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: International Standards Compliant", "Project-specific customization", "Available with comprehensive cable accessories"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS 6622, BS 7870, IEC-60502-2, IS 7098-2, IEC 60840, IS:9968 P-2, IS:14494"
+    ]
   },
   {
     "id": "prod-elec-19",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Hv  And Hv Cables - Variant 2",
-    "desc": "High Voltage and Medium Voltage cables engineered for robust long-distance power transmission.",
-    "specs": "Voltage Rating: High/Medium Voltage | Armour: Steel/Aluminium/Copper Tape",
-    "features": ["PVC/LSZH/FRLS Outer Sheath", "Galvanised Steel Wire/Tape Armour", "Customizable design", "Extremely durable"],
+    "desc": "HV/MV CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: 3300 to 33000 Volts (For XLPE/RUBBER), Up to 33000 Volts (For RUBBER)\nCONDUCTOR: Annealed Bare/Tinned Copper/Aluminium (Water-blocked conductors available on request)\nINSULATION: XLPE/RUBBER",
+    "features": [
+      "Single Core Cables: Up to 1600 sq.mm.",
+      "Three Core Cables: Up to 400 sq.mm.",
+      "METALLIC SCREEN: Copper Tape/Wire screening, Metallic Lead Sheath, Corrugated Al/Cu/Steel",
+      "ARMOUR: Galvanised Steel Wire/Flat Strip Armour/Aluminum Wire/Armour/Tape Armour"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/4. HV  & HV CABLES/ccb2cf806f9cc86c092ee4ba17832fbb.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: International Standards Compliant", "Project-specific customization", "Available with comprehensive cable accessories"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS 6622, BS 7870, IEC-60502-2, IS 7098-2, IEC 60840, IS:9968 P-2, IS:14494"
+    ]
   },
   {
     "id": "prod-elec-20",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 1",
-    "desc": "Extra High Voltage Cables manufactured in technical collaboration with BRUGG, capable of up to 400kV.",
-    "specs": "Voltage Rating: 66kV to 400kV | Size: Up to 2500 sq.mm",
-    "features": ["Extruded Super Clean XLPE Layer", "Copper/Aluminium Conductor", "Corrugated Lead Alloy/Poly-Al Sheath", "Water Blocking Tape"],
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nKEI is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
+    "features": [
+      "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
+      "RADIAL WATER BARRIER/METALLIC SHEATH: Aluminium/Copper/Steel Corrugated Sheath, Lead Alloy Sheath, Poly-Al",
+      "SEMI CONDUCTIVE LAYER: Extruded or Graphite coating"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/5. EHV CABLES/ehv.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC 60840, IEC-62067, IS 7098-3", "Technical collaboration with BRUGG", "Advanced semi-conductive screening"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC 60840, IEC-62067, IS 7098-3"
+    ]
   },
   {
     "id": "prod-elec-21",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 2",
-    "desc": "Extra High Voltage Cables manufactured in technical collaboration with BRUGG, capable of up to 400kV.",
-    "specs": "Voltage Rating: 66kV to 400kV | Size: Up to 2500 sq.mm",
-    "features": ["Extruded Super Clean XLPE Layer", "Copper/Aluminium Conductor", "Corrugated Lead Alloy/Poly-Al Sheath", "Water Blocking Tape"],
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nKEI is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
+    "features": [
+      "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
+      "RADIAL WATER BARRIER/METALLIC SHEATH: Aluminium/Copper/Steel Corrugated Sheath, Lead Alloy Sheath, Poly-Al",
+      "SEMI CONDUCTIVE LAYER: Extruded or Graphite coating"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/5. EHV CABLES/ehvv.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC 60840, IEC-62067, IS 7098-3", "Technical collaboration with BRUGG", "Advanced semi-conductive screening"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC 60840, IEC-62067, IS 7098-3"
+    ]
   },
   {
     "id": "prod-elec-22",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 3",
-    "desc": "Extra High Voltage Cables manufactured in technical collaboration with BRUGG, capable of up to 400kV.",
-    "specs": "Voltage Rating: 66kV to 400kV | Size: Up to 2500 sq.mm",
-    "features": ["Extruded Super Clean XLPE Layer", "Copper/Aluminium Conductor", "Corrugated Lead Alloy/Poly-Al Sheath", "Water Blocking Tape"],
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nKEI is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
+    "features": [
+      "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
+      "RADIAL WATER BARRIER/METALLIC SHEATH: Aluminium/Copper/Steel Corrugated Sheath, Lead Alloy Sheath, Poly-Al",
+      "SEMI CONDUCTIVE LAYER: Extruded or Graphite coating"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/5. EHV CABLES/ehvvv.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC 60840, IEC-62067, IS 7098-3", "Technical collaboration with BRUGG", "Advanced semi-conductive screening"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC 60840, IEC-62067, IS 7098-3"
+    ]
   },
   {
     "id": "prod-elec-23",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Signal And Instrumentation Cable - Variant 1",
-    "desc": "Precision signal and instrumentation cables with advanced individual or overall screening for minimal interference.",
-    "specs": "Voltage Grade: Upto 1100 Volts | Size: Up to 6 sq.mm",
-    "features": ["Aluminium Mylar/Copper Tape Screening", "Tinned/Plain Copper Conductor", "XLPE/PE/HFFR Insulation", "Galvanised Steel Armouring"],
+    "desc": "SIGNAL & INSTRUMENTATION CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "specs": "VOLTAGE GRADE: Upto 1100 Volts\nCONDUCTOR: Tinned/Plain Copper as per BS EN 60228\nINSULATION: XLPE/PE/HFFR/EPR/PVC\nPRODUCT RANGE: Multicore/Multi-pair/Multitraid/Signal Instrumentation Cables (Conductor Size upto 6 sq.mm.)",
+    "features": [
+      "SCREENING: Aluminium Mylar Tape, Copper Tape/Wire, Tinned Copper Braiding",
+      "INNER SHEATH: PVC/PE/HFFR/PCP/CSP/FRLS PVC/FR PVC",
+      "ARMOUR: Galvanised Steel Wire/Flat Strip Armour / Galvanised Steel Wire Braiding / Tape Armour (Galvanised Steel/Copper/Aluminium)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/6. SIGNAL AND INSTRUMENTATION CABLE/SIGNAL INSTRUMENTATION.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: BSEN 50288 PART-7, IEC-60092", "Available in Multicore/Multi-pair/Multi-triad", "Robust PVC/HFFR/FRLS Sheath"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BSEN 50288 PART-7, IEC-60092, PAS 5308"
+    ]
   },
   {
     "id": "prod-elec-24",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Signal And Instrumentation Cable - Variant 2",
-    "desc": "Precision signal and instrumentation cables with advanced individual or overall screening for minimal interference.",
-    "specs": "Voltage Grade: Upto 1100 Volts | Size: Up to 6 sq.mm",
-    "features": ["Aluminium Mylar/Copper Tape Screening", "Tinned/Plain Copper Conductor", "XLPE/PE/HFFR Insulation", "Galvanised Steel Armouring"],
+    "desc": "SIGNAL & INSTRUMENTATION CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "specs": "VOLTAGE GRADE: Upto 1100 Volts\nCONDUCTOR: Tinned/Plain Copper as per BS EN 60228\nINSULATION: XLPE/PE/HFFR/EPR/PVC\nPRODUCT RANGE: Multicore/Multi-pair/Multitraid/Signal Instrumentation Cables (Conductor Size upto 6 sq.mm.)",
+    "features": [
+      "SCREENING: Aluminium Mylar Tape, Copper Tape/Wire, Tinned Copper Braiding",
+      "INNER SHEATH: PVC/PE/HFFR/PCP/CSP/FRLS PVC/FR PVC",
+      "ARMOUR: Galvanised Steel Wire/Flat Strip Armour / Galvanised Steel Wire Braiding / Tape Armour (Galvanised Steel/Copper/Aluminium)"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/6. SIGNAL AND INSTRUMENTATION CABLE/signal.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: BSEN 50288 PART-7, IEC-60092", "Available in Multicore/Multi-pair/Multi-triad", "Robust PVC/HFFR/FRLS Sheath"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BSEN 50288 PART-7, IEC-60092, PAS 5308"
+    ]
   },
   {
     "id": "prod-elec-25",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Solar Cable - Variant 1",
-    "desc": "High-performance TUV-certified solar cables designed for extreme outdoor weather conditions and UV exposure.",
-    "specs": "Voltage Rating: Up to 1.8 KV DC | Size: Up to 400 sq.mm",
-    "features": ["UV & Ozone Resistant", "Zero Halogen (XLPO)", "Flame & Fire Retardant", "Lasts up to 30 years"],
+    "desc": "SOLAR CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: Up to max 1.8 KV DC\nCABLE TYPE: PV1-F, H1Z2Z2-K\nCONDUCTOR: Flexible Annealed Tinned Copper (Class 5)\nINSULATION: Thermosetting Polyolefine Zero Halogen Compound (XLPO)",
+    "features": [
+      "PRODUCT RANGE: PV Cable (Single Core) up to 400 sq.mm.",
+      "A lifetime component: lasts up to 30 years even under tough conditions (UV Resistance)",
+      "Halogen-free: low smoke emission and low toxicity during fire",
+      "Flame & fire retardant"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/7. SOLAR CABLE/solar.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: TUV 2 Pfg 1169/08.07, IEC 62930", "Flexible Annealed Tinned Copper", "Suitable for all common connector types"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: TUV 2 Pfg 1169/08.07, BSEN 50618, IEC 62930",
+      "CERTIFICATION: TUV",
+      "Suitable to common connector types TUV, UL, VDE, UTE and IMQ certified"
+    ]
   },
   {
     "id": "prod-elec-26",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Solar Cable - Variant 2",
-    "desc": "High-performance TUV-certified solar cables designed for extreme outdoor weather conditions and UV exposure.",
-    "specs": "Voltage Rating: Up to 1.8 KV DC | Size: Up to 400 sq.mm",
-    "features": ["UV & Ozone Resistant", "Zero Halogen (XLPO)", "Flame & Fire Retardant", "Lasts up to 30 years"],
+    "desc": "SOLAR CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: Up to max 1.8 KV DC\nCABLE TYPE: PV1-F, H1Z2Z2-K\nCONDUCTOR: Flexible Annealed Tinned Copper (Class 5)\nINSULATION: Thermosetting Polyolefine Zero Halogen Compound (XLPO)",
+    "features": [
+      "PRODUCT RANGE: PV Cable (Single Core) up to 400 sq.mm.",
+      "A lifetime component: lasts up to 30 years even under tough conditions (UV Resistance)",
+      "Halogen-free: low smoke emission and low toxicity during fire",
+      "Flame & fire retardant"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/7. SOLAR CABLE/sollar.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: TUV 2 Pfg 1169/08.07, IEC 62930", "Flexible Annealed Tinned Copper", "Suitable for all common connector types"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: TUV 2 Pfg 1169/08.07, BSEN 50618, IEC 62930",
+      "CERTIFICATION: TUV",
+      "Suitable to common connector types TUV, UL, VDE, UTE and IMQ certified"
+    ]
   },
   {
     "id": "prod-elec-27",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Rubber Cables - Variant 1",
-    "desc": "Highly flexible and resilient rubber cables designed for heavy-duty industrial, railway, and mining applications.",
-    "specs": "Voltage Rating: Up to 33000 Volts",
-    "features": ["EPR/CSP/SILICON/EVA Insulation", "Tinned/Plain Copper Conductor", "PCP/NBR/CPE Sheath", "Extreme durability"],
+    "desc": "RUBBER CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: Up to 33000 Volts\nCONDUCTOR: Tinned/Plain Copper as per BS-6360/IEC-60228, IS:8130\nINSULATION: EPR/CSP/SILICON/EVA",
+    "features": [
+      "PRODUCT RANGE: Flexible Cables, Railway Flexible Cables, Trailing Cables, Mining Cables, Festoon Cables, etc.",
+      "ARMOUR (IF REQUIRED): Galvanised Steel Wire or Copper Wire Braiding",
+      "INNER/OUTER SHEATH: PCP/CSP/NBR/EVA/CPE"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/8. RUBBER CABLES/5fd3398ffeee20734271a08dc8c2521e.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC-60092, IEC-60502-1&2, IS:9968", "Ideal for Trailing, Mining, and Festoon applications", "Optional Steel/Copper Braiding"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC-60092, IEC-60502-1&2, BS 7919, BS 6007, BS 7889, BS 6500, IS:9968/P-1, IS:9968/P-2, IS:14494, IS:16246"
+    ]
   },
   {
     "id": "prod-elec-28",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Rubber Cables - Variant 2",
-    "desc": "Highly flexible and resilient rubber cables designed for heavy-duty industrial, railway, and mining applications.",
-    "specs": "Voltage Rating: Up to 33000 Volts",
-    "features": ["EPR/CSP/SILICON/EVA Insulation", "Tinned/Plain Copper Conductor", "PCP/NBR/CPE Sheath", "Extreme durability"],
+    "desc": "RUBBER CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: Up to 33000 Volts\nCONDUCTOR: Tinned/Plain Copper as per BS-6360/IEC-60228, IS:8130\nINSULATION: EPR/CSP/SILICON/EVA",
+    "features": [
+      "PRODUCT RANGE: Flexible Cables, Railway Flexible Cables, Trailing Cables, Mining Cables, Festoon Cables, etc.",
+      "ARMOUR (IF REQUIRED): Galvanised Steel Wire or Copper Wire Braiding",
+      "INNER/OUTER SHEATH: PCP/CSP/NBR/EVA/CPE"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/8. RUBBER CABLES/rubber.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IEC-60092, IEC-60502-1&2, IS:9968", "Ideal for Trailing, Mining, and Festoon applications", "Optional Steel/Copper Braiding"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: IEC-60092, IEC-60502-1&2, BS 7919, BS 6007, BS 7889, BS 6500, IS:9968/P-1, IS:9968/P-2, IS:14494, IS:16246"
+    ]
   },
   {
     "id": "prod-elec-29",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Fire Survival Cable - Variant 1",
-    "desc": "Mission-critical fire survival cables engineered with glass mica heat barrier tapes to maintain circuit integrity.",
-    "specs": "Voltage Rating: Up to 1100 Volts | Size: Up to 1000 sq.mm",
-    "features": ["Glass Mica Tape Fire Barrier", "XLPE/SILICON/EPR Insulation", "LSZH/FRLS Sheath", "Maintains power during fire"],
+    "desc": "FIRE SURVIVAL CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: Up to 1100 Volts\nCONDUCTOR: Tinned/Plain Copper as per BS-6360/IEC-60228, IS:8130\nHEAT BARRIER/FIRE PROOF LAYER: Glass Mica Tape Wrapped Over Conductor\nINSULATION: XLPE/SILICON RUBBER/EVA/SCP/HRPVC/LSZH/CSP/EPR",
+    "features": [
+      "LV Power Cables: Conductor Size up to 400 sq.mm. (For Multicore) & up to 1000 sq.mm. (For Single Core)",
+      "LV Control & Instrumentation Cables: Conductor Size up to 6 sq.mm. (up to 61 Cores)",
+      "Signal Cables: Conductor Size up to 6 sq.mm. (up to 100 Pairs/Traids)",
+      "SCREENING (IF REQUIRED): Aluminium Mylar Tape, Copper Tape/Wire, Tinned Copper Braiding",
+      "ARMOUR: Galvanised Steel Wire/Flat Strip Armour / Galvanised Steel Wire Braiding / Tape Armour"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/9. FIRE SURVIVAL CABLE/cb1856c5fbcb360b8b9f1979a2d9445a.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: BS 7846, IEC-60502-1", "Crucial for emergency evacuation systems", "Available in Power, Control, and Signal variants"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS 7846, IEC-60502-1, BS EN 50288 PART-7, IEC-60092, IS:16246"
+    ]
   },
   {
     "id": "prod-elec-30",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Fire Survival Cable - Variant 2",
-    "desc": "Mission-critical fire survival cables engineered with glass mica heat barrier tapes to maintain circuit integrity.",
-    "specs": "Voltage Rating: Up to 1100 Volts | Size: Up to 1000 sq.mm",
-    "features": ["Glass Mica Tape Fire Barrier", "XLPE/SILICON/EPR Insulation", "LSZH/FRLS Sheath", "Maintains power during fire"],
+    "desc": "FIRE SURVIVAL CABLES\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered (if required).",
+    "specs": "VOLTAGE RATING: Up to 1100 Volts\nCONDUCTOR: Tinned/Plain Copper as per BS-6360/IEC-60228, IS:8130\nHEAT BARRIER/FIRE PROOF LAYER: Glass Mica Tape Wrapped Over Conductor\nINSULATION: XLPE/SILICON RUBBER/EVA/SCP/HRPVC/LSZH/CSP/EPR",
+    "features": [
+      "LV Power Cables: Conductor Size up to 400 sq.mm. (For Multicore) & up to 1000 sq.mm. (For Single Core)",
+      "LV Control & Instrumentation Cables: Conductor Size up to 6 sq.mm. (up to 61 Cores)",
+      "Signal Cables: Conductor Size up to 6 sq.mm. (up to 100 Pairs/Traids)",
+      "SCREENING (IF REQUIRED): Aluminium Mylar Tape, Copper Tape/Wire, Tinned Copper Braiding",
+      "ARMOUR: Galvanised Steel Wire/Flat Strip Armour / Galvanised Steel Wire Braiding / Tape Armour"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/9. FIRE SURVIVAL CABLE/fire.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: BS 7846, IEC-60502-1", "Crucial for emergency evacuation systems", "Available in Power, Control, and Signal variants"]
+    "keyPoints": [
+      "APPLICABLE STANDARDS: BS 7846, IEC-60502-1, BS EN 50288 PART-7, IEC-60092, IS:16246"
+    ]
   },
   {
     "id": "prod-elec-31",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Winding Wire And Flat Cables - Variant 1",
-    "desc": "Specially formulated winding wires and flat cables primarily used in submersible pumps and motors.",
-    "specs": "Voltage Grade: Upto 1100 V | Winding: 0.5-3 sq.mm | Flat: 1.5-35 sq.mm",
-    "features": ["Copper Conductor", "PVC/Triple Poly Tape Insulation", "High water resistance", "High flexibility"],
+    "desc": "WINDING WIRES & FLAT CABLES\nPRODUCT APPLICATION: Mostly in Submersible Pumps & Motors",
+    "specs": "CONDUCTOR: Copper\nINSULATION: PVC/Triple Poly Tape\nVOLTAGE GRADE: Upto 1100 V",
+    "features": [
+      "Winding Wires: 0.50 to 3.00 sq.mm.",
+      "Flat Cables: 1.50 to 35 sq.mm."
+    ],
     "image": "/ELECTRICAL/1. wire and cables/10. WINDING WIRE & FLAT CABLES/FLAT WIRE.webp",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:8783, IS:694", "Designed for Submersible Pumps", "Drum/Coil packaging"]
+    "keyPoints": [
+      "APPLICATION STANDARD: IS: 8783 (Part 4 Section 1): 1995, IS: 8783 (Part 4 Section 3): 1995, IS: 694",
+      "PACKING: Coils/Box Packing for Winding Wires, Drum Packing 500 Mtrs for Flat Cables"
+    ]
   },
   {
     "id": "prod-elec-32",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Winding Wire And Flat Cables - Variant 2",
-    "desc": "Specially formulated winding wires and flat cables primarily used in submersible pumps and motors.",
-    "specs": "Voltage Grade: Upto 1100 V | Winding: 0.5-3 sq.mm | Flat: 1.5-35 sq.mm",
-    "features": ["Copper Conductor", "PVC/Triple Poly Tape Insulation", "High water resistance", "High flexibility"],
+    "desc": "WINDING WIRES & FLAT CABLES\nPRODUCT APPLICATION: Mostly in Submersible Pumps & Motors",
+    "specs": "CONDUCTOR: Copper\nINSULATION: PVC/Triple Poly Tape\nVOLTAGE GRADE: Upto 1100 V",
+    "features": [
+      "Winding Wires: 0.50 to 3.00 sq.mm.",
+      "Flat Cables: 1.50 to 35 sq.mm."
+    ],
     "image": "/ELECTRICAL/1. wire and cables/10. WINDING WIRE & FLAT CABLES/FLATE WIRE.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:8783, IS:694", "Designed for Submersible Pumps", "Drum/Coil packaging"]
+    "keyPoints": [
+      "APPLICATION STANDARD: IS: 8783 (Part 4 Section 1): 1995, IS: 8783 (Part 4 Section 3): 1995, IS: 694",
+      "PACKING: Coils/Box Packing for Winding Wires, Drum Packing 500 Mtrs for Flat Cables"
+    ]
   },
   {
     "id": "prod-elec-33",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Winding Wire And Flat Cables - Variant 3",
-    "desc": "Specially formulated winding wires and flat cables primarily used in submersible pumps and motors.",
-    "specs": "Voltage Grade: Upto 1100 V | Winding: 0.5-3 sq.mm | Flat: 1.5-35 sq.mm",
-    "features": ["Copper Conductor", "PVC/Triple Poly Tape Insulation", "High water resistance", "High flexibility"],
+    "desc": "WINDING WIRES & FLAT CABLES\nPRODUCT APPLICATION: Mostly in Submersible Pumps & Motors",
+    "specs": "CONDUCTOR: Copper\nINSULATION: PVC/Triple Poly Tape\nVOLTAGE GRADE: Upto 1100 V",
+    "features": [
+      "Winding Wires: 0.50 to 3.00 sq.mm.",
+      "Flat Cables: 1.50 to 35 sq.mm."
+    ],
     "image": "/ELECTRICAL/1. wire and cables/10. WINDING WIRE & FLAT CABLES/WINDING WIRE.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: IS:8783, IS:694", "Designed for Submersible Pumps", "Drum/Coil packaging"]
+    "keyPoints": [
+      "APPLICATION STANDARD: IS: 8783 (Part 4 Section 1): 1995, IS: 8783 (Part 4 Section 3): 1995, IS: 694",
+      "PACKING: Coils/Box Packing for Winding Wires, Drum Packing 500 Mtrs for Flat Cables"
+    ]
   },
   {
     "id": "prod-elec-34",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Communication - Variant 1",
-    "desc": "Comprehensive range of communication cables including Telephone, Co-axial, CAT 6, and CCTV cables.",
-    "specs": "Sizes: Multiple ranges including RG 11, CAT 6, CCTV 3+1/4+1",
-    "features": ["Bare Conductor / CCS", "Foam PE/HDPE Insulation", "Aluminium Mylar/Braid Shielding", "High signal integrity"],
+    "desc": "COMMUNICATION CABLES",
+    "specs": "Telephone Cable: 0.40 & 0.50 mm (1, 2, 3, 4, 5, 10 pair)\nCo-axial Cable: RG 11, RG 59, RG 6\nCAT 6 Cable\nCCTV Cables: CCTV 4+1, CCTV 3+1",
+    "features": [
+      "Telephone: Bare Conductor | Insulation: HDPE | Sheath: PVC",
+      "Co-axial: Bare Conductor and CCS | Insulation: Foam PE | Sheath: PVC | Shielding: AL – Mylar Tape, Aluminum Wire Braid & Jelly Filled",
+      "CAT 6: Bare Conductor | Insulation: HDPE | Sheath: PVC",
+      "CCTV: Bare Conductor | Insulation: Physical Foam PE/PE | Shield (Co-Axial): Bonded Aluminium Tape & Aluminium Alloy Braid"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/11. COMMUNICATION/CAT 6.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: ANSI/TIA-568-C.2", "Includes ITD Standard Telephone Cables", "Multiple packaging options (100/305 mtrs)"]
+    "keyPoints": [
+      "Telephone Standard: ITD | Packaging: 100/90 mtrs",
+      "Co-axial Packaging: Coil & Drum, 100 mtrs/305 mtrs",
+      "CAT 6 / CCTV Standard: ANSI/TIA-568-C.2 | Packaging: 305 mtrs (CAT 6) / 90/100/180 mtrs (CCTV)"
+    ]
   },
   {
     "id": "prod-elec-35",
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Communication - Variant 2",
-    "desc": "Comprehensive range of communication cables including Telephone, Co-axial, CAT 6, and CCTV cables.",
-    "specs": "Sizes: Multiple ranges including RG 11, CAT 6, CCTV 3+1/4+1",
-    "features": ["Bare Conductor / CCS", "Foam PE/HDPE Insulation", "Aluminium Mylar/Braid Shielding", "High signal integrity"],
+    "desc": "COMMUNICATION CABLES",
+    "specs": "Telephone Cable: 0.40 & 0.50 mm (1, 2, 3, 4, 5, 10 pair)\nCo-axial Cable: RG 11, RG 59, RG 6\nCAT 6 Cable\nCCTV Cables: CCTV 4+1, CCTV 3+1",
+    "features": [
+      "Telephone: Bare Conductor | Insulation: HDPE | Sheath: PVC",
+      "Co-axial: Bare Conductor and CCS | Insulation: Foam PE | Sheath: PVC | Shielding: AL – Mylar Tape, Aluminum Wire Braid & Jelly Filled",
+      "CAT 6: Bare Conductor | Insulation: HDPE | Sheath: PVC",
+      "CCTV: Bare Conductor | Insulation: Physical Foam PE/PE | Shield (Co-Axial): Bonded Aluminium Tape & Aluminium Alloy Braid"
+    ],
     "image": "/ELECTRICAL/1. wire and cables/11. COMMUNICATION/COMMUNICATION.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": ["Applicable Standards: ANSI/TIA-568-C.2", "Includes ITD Standard Telephone Cables", "Multiple packaging options (100/305 mtrs)"]
+    "keyPoints": [
+      "Telephone Standard: ITD | Packaging: 100/90 mtrs",
+      "Co-axial Packaging: Coil & Drum, 100 mtrs/305 mtrs",
+      "CAT 6 / CCTV Standard: ANSI/TIA-568-C.2 | Packaging: 305 mtrs (CAT 6) / 90/100/180 mtrs (CCTV)"
+    ]
   },
   {
     "id": "prod-elec-36",
@@ -2460,2268 +2717,2190 @@ const productsData = [
     "id": "prod-home-1",
     "category": "home-decor",
     "subCategory": "Bedding",
-    "name": "Bedding Collection - Variant 1",
-    "desc": "Experience premium quality with our bedding collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Bedding - Variant 1",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
     ],
     "image": "/HOME/1.BEDDING/6cc3f856846f4ca5f4534b07e4fc7e2a.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
     ]
   },
   {
     "id": "prod-home-2",
     "category": "home-decor",
     "subCategory": "Bedding",
-    "name": "Bedding Collection - Variant 2",
-    "desc": "Experience premium quality with our bedding collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Bedding - Variant 2",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
     ],
     "image": "/HOME/1.BEDDING/Hotel-Curtains-Dubai-1.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
     ]
   },
   {
     "id": "prod-home-3",
     "category": "home-decor",
     "subCategory": "Bedding",
-    "name": "Bedding Collection - Variant 3",
-    "desc": "Experience premium quality with our bedding collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Bedding - Variant 3",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
     ],
     "image": "/HOME/1.BEDDING/WhatsApp Image 2026-04-21 at 3.14.36 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
     ]
   },
   {
     "id": "prod-home-4",
     "category": "home-decor",
     "subCategory": "Bedding",
-    "name": "Bedding Collection - Variant 4",
-    "desc": "Experience premium quality with our bedding collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Bedding - Variant 4",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
     ],
     "image": "/HOME/1.BEDDING/WhatsApp Image 2026-04-21 at 3.14.37 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
     ]
   },
   {
     "id": "prod-home-5",
     "category": "home-decor",
     "subCategory": "Bedding",
-    "name": "Bedding Collection - Variant 5",
-    "desc": "Experience premium quality with our bedding collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Bedding - Variant 5",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
     ],
     "image": "/HOME/1.BEDDING/WhatsApp Image 2026-04-21 at 3.16.07 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
     ]
   },
   {
     "id": "prod-home-6",
     "category": "home-decor",
     "subCategory": "Bedding",
-    "name": "Bedding Collection - Variant 6",
-    "desc": "Experience premium quality with our bedding collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Bedding - Variant 6",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
     ],
     "image": "/HOME/1.BEDDING/a52a0be8c70b55a55bb8b8bf91881ace.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
     ]
   },
   {
     "id": "prod-home-7",
     "category": "home-decor",
     "subCategory": "Bedding",
-    "name": "Bedding Collection - Variant 7",
-    "desc": "Experience premium quality with our bedding collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Bedding - Variant 7",
+    "desc": "BEDDING\nBedding is a premium range of high-end bed linen and sleep products designed to deliver superior comfort, elegance, and durability. Crafted from finest quality fabrics such as Egyptian cotton, satin, linen, bamboo fibre, silk blends, and high-thread-count cotton, luxury bedding enhances the overall sleeping experience while adding sophistication to interior spaces.",
+    "specs": "GSM & THREAD COUNTS: Available in Various GSM & Thread Counts (150 – 1000 Thread Count)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Soft & Comfortable Fabric (Cotton / Satin)",
+      "Breathable & Skin-Friendly",
+      "Durable Stitching & Hotel-grade finish",
+      "Elegant Designs & Patterns",
+      "Easy Wash & Maintenance, Colour Fastness"
     ],
     "image": "/HOME/1.BEDDING/d570a068d4422011e4f99c52649ad797.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customization Available",
+      "Applications: Residential Use, Hotels & Resorts, Hospitality Projects, Hospitals & Healthcare, Interior & Luxury Projects, Guest Houses & Serviced Apartments",
+      "Common Products: Bed Sheets, Comforters, Duvets, Quilts, Blankets, Bed Runners"
     ]
   },
   {
     "id": "prod-home-8",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 1",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 1",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/Screenshot_21-4-2026_161120_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-9",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 2",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 2",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/Screenshot_21-4-2026_16912_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-10",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 3",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 3",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/Untitled (4).png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-11",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 4",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 4",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-18 at 5.24.47 PM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-12",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 5",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 5",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-19 at 11.41.51 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-13",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 6",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 6",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.16.24 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-14",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 7",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 7",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-15",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 8",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 8",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-20 at 11.58.12 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-16",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 9",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 9",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.00 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-17",
     "category": "home-decor",
     "subCategory": "Cushion & Covers",
-    "name": "Designer Cushion Cover - Variant 10",
-    "desc": "Experience premium quality with our cushion & covers collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Cushion & Covers - Variant 10",
+    "desc": "CUSHION & COVERS\nEnhance your interiors with premium-quality cushions and cushion covers designed to bring elegance, comfort, and sophistication to every space. Crafted from high-grade fabrics with fine stitching and modern textures, our collection perfectly blends style with durability.",
+    "specs": "STANDARD SIZE (INCHES): 12x20, 16x16, 18x18",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of premium fabric, designs, colours, patterns, and finishes",
+      "Soft, durable & comfortable",
+      "Elegant patterns and modern designs",
+      "Easy maintenance & long-lasting colour"
     ],
     "image": "/HOME/2.CUSHION & COVERS/WhatsApp Image 2026-04-21 at 5.46.02 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for residential & hospitality projects",
+      "All sizes available",
+      "Available in customized sizes, fabrics & colours"
     ]
   },
   {
     "id": "prod-home-18",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 1",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 1",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/305e7cd9d70cd3b51b950744cda4471a.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-19",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 2",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 2",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/6831a67ed0ca5c1c1308211b5f776098_3f3e0cfc-d64e-46b0-a871-9f6a4e95b4bd_large.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-20",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 3",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 3",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/68842654a2d6d041c5a2f489f8f3c85d.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-21",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 4",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 4",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/710839d0239cba16a6263ade3b938279.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-22",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 5",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 5",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/80282f0012898a1d617cd5a1b1f95e8b.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-23",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 6",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 6",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/c66e579febabb049654f11a4526769d1.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-24",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 7",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 7",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/caa246172a792e892705f32476001f4a.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-25",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 8",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 8",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/fb02b5aa19fd1c5f069b0c6ec4cb36e0.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-26",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 9",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 9",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/hotel-bath-robe.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-27",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 10",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 10",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/luxury-white-bathrobe-slippers-towels-set.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-28",
     "category": "home-decor",
     "subCategory": "Towels & Bathrobes",
-    "name": "Luxury Bath Linen & Bathrobe - Variant 11",
-    "desc": "Experience premium quality with our towels & bathrobes collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Towels & Bathrobes - Variant 11",
+    "desc": "TOWELS & BATHROBES\nExperience luxury, comfort, and elegance with our premium towels and bathrobes, crafted from ultra-soft, highly absorbent fabric for a superior spa-like experience. Designed for hotels, resorts, spas, and home use. With premium stitching, elegant finishing, and long-lasting quality, these products offer the perfect blend of style, functionality, and relaxation.",
+    "specs": "GSM OPTIONS: Available in various sizes, colours, GSM options (400–700 GSM)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "100% Cotton / Organic",
+      "High absorbency, softness, durability",
+      "Durable for hotel use"
     ],
     "image": "/HOME/3. TOWELS & BATH ROB/premium-bath-linen-collection-with-proper-scale.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Logo & Designs Customization Available (embroidery & branding)",
+      "Available in various sizes and colours"
     ]
   },
   {
     "id": "prod-home-29",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 1",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 1",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161318_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-30",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 2",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 2",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161542_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-31",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 3",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 3",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161610_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-32",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 4",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 4",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161640_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-33",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 5",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 5",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161657_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-34",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 6",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 6",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_161944_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-35",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 7",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 7",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_162029_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-36",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 8",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 8",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_16204_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-37",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 9",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 9",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_162322_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-38",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 10",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 10",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_162543_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-39",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 11",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 11",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/Screenshot_21-4-2026_17750_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-40",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 12",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 12",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.15 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-41",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 13",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 13",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.15 AM (3).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-42",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 14",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 14",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.31 AM (3).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-43",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 15",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 15",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.32 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-44",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 16",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 16",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.33 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-45",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 17",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 17",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.33 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-46",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 18",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 18",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.34 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-47",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 19",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 19",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/WhatsApp Image 2026-04-20 at 11.16.35 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-48",
     "category": "home-decor",
     "subCategory": "Curtain Fabrics",
-    "name": "Premium Curtain Fabric - Variant 20",
-    "desc": "Experience premium quality with our curtain fabrics collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Curtain Fabrics - Variant 20",
+    "desc": "CURTAIN FABRICS\nTransform interiors with our premium curtain fabrics, designed to bring elegance, comfort, and sophistication to every space. Crafted from high-quality materials, our fabrics offer a perfect balance of luxury, durability, and functionality. Available in a wide range of textures, patterns, and colours, they are ideal for residential, hospitality, commercial, and interior décor applications.",
+    "specs": "OPTIONS: Available in blackout (80%–100%), sheer, and decorative options",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide fabric range: Plain & Texture, Printed/Floral, Embroidered & more",
+      "Flame retardant",
+      "Premium quality finish with elegant texture and rich appearance",
+      "Soft feel with superior draping, Durable and colour fastness fabric"
     ],
     "image": "/HOME/4. CURTAIN FABRICS/hotel-curtain.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Ideal for homes, hotels, and commercial interiors",
+      "Custom colours, patterns, and sizes available",
+      "Applications: Residential Interiors | Hotels | Resorts | Offices | Villas | Banquet Halls | Luxury Projects"
     ]
   },
   {
     "id": "prod-home-49",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 1",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 1",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Picture1.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-50",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 2",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 2",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Picture2.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-51",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 3",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 3",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Picture3.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-52",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 4",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 4",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_161254_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-53",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 5",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 5",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_161843_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-54",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 6",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 6",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/Screenshot_21-4-2026_162255_.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-55",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 7",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 7",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-18 at 5.24.48 PM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-56",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 8",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 8",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.26 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-57",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 9",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 9",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.27 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-58",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 10",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 10",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-59",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 11",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 11",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-60",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 12",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 12",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.28 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-61",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 13",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 13",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.29 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-62",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 14",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 14",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.30 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-63",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 15",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 15",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.31 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-64",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 16",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 16",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.31 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-65",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 17",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 17",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.35 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-66",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 18",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 18",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.35 AM (3).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-67",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 19",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 19",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.35 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-68",
     "category": "home-decor",
     "subCategory": "Sofa & Chair Upholstery",
-    "name": "Premium Sofa Upholstery - Variant 20",
-    "desc": "Experience premium quality with our sofa & chair upholstery collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Sofa & Chair Upholstery - Variant 20",
+    "desc": "SOFA & CHAIR UPHOLSTERY\nPremium sofa and chair upholstery crafted for elegance, durability, and everyday comfort. Made using high-quality fabrics and advanced finishing techniques, our upholstery solutions enhance interior aesthetics while offering excellent resistance to wear, fading, and abrasion.",
+    "specs": "AVAILABLE: In a wide range of textures, patterns, and colours",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Finishes including velvet, linen, leatherette, woven, jacquard, and performance fabrics",
+      "Soft and comfortable finish with elegant designs and rich textures",
+      "Easy to clean and maintain",
+      "Available in fire-retardant and stain-resistant options"
     ],
     "image": "/HOME/5. SOFA & CHAIR UPHOLSTARY/WhatsApp Image 2026-04-20 at 11.16.36 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Suitable for sofas, chairs, lounges, hotels, offices, and hospitality furniture",
+      "Applications: Residential Furniture, Hotel & Hospitality Seating, Office & Commercial Interiors, Restaurants & Cafes, Luxury Lounge Furniture",
+      "Ideal for modern and classic interior décor solutions with premium aesthetic appeal and reliable performance"
     ]
   },
   {
     "id": "prod-home-69",
     "category": "home-decor",
     "subCategory": "Carpets & Rugs",
-    "name": "Hand-Tufted Woolen Rug - Variant 1",
-    "desc": "Experience premium quality with our carpets & rugs collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Carpets & Rugs - Variant 1",
+    "desc": "CARPETS & RUGS\nEnhance your interiors with our premium collection of carpets and rugs, crafted to bring elegance, comfort, and sophistication to every space. Designed using high-quality materials and fine craftsmanship, our carpets and rugs offer exceptional durability, soft texture, and timeless appeal for residential, hospitality, commercial, and luxury projects.",
+    "specs": "MATERIAL: New Zealand wool, Indian wool, 50% viscose + 50% New Zealand wool, Botanical silk, Lincoln wool, 50% botanical silk + 50% New Zealand wool\nSTANDARD SIZE: 5x7, 9x6, 2x4, 4x6 (feet)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of modern, classic, and customized designs",
+      "Rugs can be made of any size",
+      "All handmade rugs"
     ],
     "image": "/HOME/6. CARPET & RUGS/81ETX9pdK6L._AC_UF894,1000_QL80_.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Available in multiple sizes, patterns, textures, and colour combinations",
+      "Customization options available to meet specific project requirements"
     ]
   },
   {
     "id": "prod-home-70",
     "category": "home-decor",
     "subCategory": "Carpets & Rugs",
-    "name": "Hand-Tufted Woolen Rug - Variant 2",
-    "desc": "Experience premium quality with our carpets & rugs collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Carpets & Rugs - Variant 2",
+    "desc": "CARPETS & RUGS\nEnhance your interiors with our premium collection of carpets and rugs, crafted to bring elegance, comfort, and sophistication to every space. Designed using high-quality materials and fine craftsmanship, our carpets and rugs offer exceptional durability, soft texture, and timeless appeal for residential, hospitality, commercial, and luxury projects.",
+    "specs": "MATERIAL: New Zealand wool, Indian wool, 50% viscose + 50% New Zealand wool, Botanical silk, Lincoln wool, 50% botanical silk + 50% New Zealand wool\nSTANDARD SIZE: 5x7, 9x6, 2x4, 4x6 (feet)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of modern, classic, and customized designs",
+      "Rugs can be made of any size",
+      "All handmade rugs"
     ],
     "image": "/HOME/6. CARPET & RUGS/WhatsApp Image 2026-01324-21 at 5.41.05 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Available in multiple sizes, patterns, textures, and colour combinations",
+      "Customization options available to meet specific project requirements"
     ]
   },
   {
     "id": "prod-home-71",
     "category": "home-decor",
     "subCategory": "Carpets & Rugs",
-    "name": "Hand-Tufted Woolen Rug - Variant 3",
-    "desc": "Experience premium quality with our carpets & rugs collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Carpets & Rugs - Variant 3",
+    "desc": "CARPETS & RUGS\nEnhance your interiors with our premium collection of carpets and rugs, crafted to bring elegance, comfort, and sophistication to every space. Designed using high-quality materials and fine craftsmanship, our carpets and rugs offer exceptional durability, soft texture, and timeless appeal for residential, hospitality, commercial, and luxury projects.",
+    "specs": "MATERIAL: New Zealand wool, Indian wool, 50% viscose + 50% New Zealand wool, Botanical silk, Lincoln wool, 50% botanical silk + 50% New Zealand wool\nSTANDARD SIZE: 5x7, 9x6, 2x4, 4x6 (feet)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of modern, classic, and customized designs",
+      "Rugs can be made of any size",
+      "All handmade rugs"
     ],
     "image": "/HOME/6. CARPET & RUGS/WhatsApp Image 2026-014-21 at 5.41.05 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Available in multiple sizes, patterns, textures, and colour combinations",
+      "Customization options available to meet specific project requirements"
     ]
   },
   {
     "id": "prod-home-72",
     "category": "home-decor",
     "subCategory": "Carpets & Rugs",
-    "name": "Hand-Tufted Woolen Rug - Variant 4",
-    "desc": "Experience premium quality with our carpets & rugs collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Carpets & Rugs - Variant 4",
+    "desc": "CARPETS & RUGS\nEnhance your interiors with our premium collection of carpets and rugs, crafted to bring elegance, comfort, and sophistication to every space. Designed using high-quality materials and fine craftsmanship, our carpets and rugs offer exceptional durability, soft texture, and timeless appeal for residential, hospitality, commercial, and luxury projects.",
+    "specs": "MATERIAL: New Zealand wool, Indian wool, 50% viscose + 50% New Zealand wool, Botanical silk, Lincoln wool, 50% botanical silk + 50% New Zealand wool\nSTANDARD SIZE: 5x7, 9x6, 2x4, 4x6 (feet)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of modern, classic, and customized designs",
+      "Rugs can be made of any size",
+      "All handmade rugs"
     ],
     "image": "/HOME/6. CARPET & RUGS/WhatsApp Image 2026-04-21 at 5.41.05 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Available in multiple sizes, patterns, textures, and colour combinations",
+      "Customization options available to meet specific project requirements"
     ]
   },
   {
     "id": "prod-home-73",
     "category": "home-decor",
     "subCategory": "Carpets & Rugs",
-    "name": "Hand-Tufted Woolen Rug - Variant 5",
-    "desc": "Experience premium quality with our carpets & rugs collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Carpets & Rugs - Variant 5",
+    "desc": "CARPETS & RUGS\nEnhance your interiors with our premium collection of carpets and rugs, crafted to bring elegance, comfort, and sophistication to every space. Designed using high-quality materials and fine craftsmanship, our carpets and rugs offer exceptional durability, soft texture, and timeless appeal for residential, hospitality, commercial, and luxury projects.",
+    "specs": "MATERIAL: New Zealand wool, Indian wool, 50% viscose + 50% New Zealand wool, Botanical silk, Lincoln wool, 50% botanical silk + 50% New Zealand wool\nSTANDARD SIZE: 5x7, 9x6, 2x4, 4x6 (feet)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of modern, classic, and customized designs",
+      "Rugs can be made of any size",
+      "All handmade rugs"
     ],
     "image": "/HOME/6. CARPET & RUGS/arnabohorug.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Available in multiple sizes, patterns, textures, and colour combinations",
+      "Customization options available to meet specific project requirements"
     ]
   },
   {
     "id": "prod-home-74",
     "category": "home-decor",
     "subCategory": "Carpets & Rugs",
-    "name": "Hand-Tufted Woolen Rug - Variant 6",
-    "desc": "Experience premium quality with our carpets & rugs collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Carpets & Rugs - Variant 6",
+    "desc": "CARPETS & RUGS\nEnhance your interiors with our premium collection of carpets and rugs, crafted to bring elegance, comfort, and sophistication to every space. Designed using high-quality materials and fine craftsmanship, our carpets and rugs offer exceptional durability, soft texture, and timeless appeal for residential, hospitality, commercial, and luxury projects.",
+    "specs": "MATERIAL: New Zealand wool, Indian wool, 50% viscose + 50% New Zealand wool, Botanical silk, Lincoln wool, 50% botanical silk + 50% New Zealand wool\nSTANDARD SIZE: 5x7, 9x6, 2x4, 4x6 (feet)",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Available in a wide range of modern, classic, and customized designs",
+      "Rugs can be made of any size",
+      "All handmade rugs"
     ],
     "image": "/HOME/6. CARPET & RUGS/images.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Available in multiple sizes, patterns, textures, and colour combinations",
+      "Customization options available to meet specific project requirements"
     ]
   },
   {
     "id": "prod-home-75",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 1",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 1",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/Untitled (3).png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-76",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 2",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 2",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-17 at 10.06.41 PM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-77",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 3",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 3",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-17 at 10.06.41 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-78",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 4",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 4",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-18 at 5.15.40 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-79",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 5",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 5",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-18 at 5.15.42 PM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-80",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 6",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 6",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.16 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-81",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 7",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 7",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.16 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-82",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 8",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 8",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.16 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-83",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 9",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 9",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.18 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-84",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 10",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 10",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.18 AM (3).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-85",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 11",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 11",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.18 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-86",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 12",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 12",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.19 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-87",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 13",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 13",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.21 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-88",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 14",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 14",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.22 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-89",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 15",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 15",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.23 AM (1).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-90",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 16",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 16",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.23 AM (2).jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-91",
     "category": "home-decor",
     "subCategory": "Wallarts & Wallpaper",
-    "name": "Designer Wallpaper & Wall Art - Variant 17",
-    "desc": "Experience premium quality with our wallarts & wallpaper collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Wallarts & Wallpaper - Variant 17",
+    "desc": "WALLARTS & WALLPAPER\nUpgrade your interiors with premium wallpaper and elegant wall art designed to bring style, sophistication, and personality to every space. Perfect for homes, hotels, offices, retail spaces, and hospitality projects, these decorative solutions create visually striking interiors with a refined and contemporary appeal.",
+    "specs": "WEIGHT: 70–350 GSM",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Wide range: modern, classic, luxury, textured, floral, geometric, and artistic designs",
+      "Hand painted art",
+      "Easy to maintain",
+      "Available in Flame Retardant"
     ],
     "image": "/HOME/7.WALLARTS & WALLPAPER/WhatsApp Image 2026-04-20 at 11.16.23 AM.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customizable themes, sizes, and finishes",
+      "Enhances walls with creativity, depth, and timeless elegance"
     ]
   },
   {
     "id": "prod-home-92",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 1",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 1",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/39617465-12614382.avif",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-93",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 2",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 2",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/3a274f21-476b-4208-aead-15a9079a2329_74bc3dfa-57ce-4798-bbb4-40b1eb719c8e.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-94",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 3",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 3",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/71483Zs4lHL._AC_UY1100_.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-95",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 4",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 4",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/71JV347wmaL.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-96",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 5",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 5",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/93f08780-b1dd-4b7d-84e2-a8aeeb529564.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-97",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 6",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 6",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WCP-Hendeer23-Duffel-018-Edit.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-98",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 7",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 7",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2025-12-25_at_6.33.32_PM_1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-99",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 8",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 8",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-01-06_at_3.39.00_PM.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-100",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 9",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 9",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-01-10_at_5.55.20_PM.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-101",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 10",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 10",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-01-17_at_5.02.21_PM.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-102",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 11",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 11",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-03-28_at_2.38.16_PM_1.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-103",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 12",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 12",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/WhatsApp_Image_2026-03-28_at_2.38.17_PM_3.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-104",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 13",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 13",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/Wholesale-Custom-logo-Hard-Fabric-Tote-Cotton-Reusable-Grocery-Shopping-High-Quality-Canvas-Bag-With-Custom-Design.avif",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-105",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 14",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 14",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/ccaf53a73848710c15da9213abe10eae672bc480_600_600_fill.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-106",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 15",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 15",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/empty-wine-bottles-wooden-cellar_449849-48912.avif",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-107",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 16",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 16",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/reusuable-shopping-bags.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   },
   {
     "id": "prod-home-108",
     "category": "home-decor",
     "subCategory": "Fabric Bags & Jute Bags",
-    "name": "Artisan Fabric & Jute Bag - Variant 17",
-    "desc": "Experience premium quality with our fabric bags & jute bags collection. Handpicked materials and exquisite designs to elevate your living spaces.",
-    "specs": "Premium Quality Material",
+    "name": "Fabric Bags & Jute Bags - Variant 17",
+    "desc": "FABRIC BAGS & JUTE BAGS\nPremium-quality fabric and jute bags designed for durability, style, and eco-friendly everyday use. Manufactured from reusable and sustainable materials, these bags are ideal for shopping, gifting, promotions, packaging, retail, and corporate applications.",
+    "specs": "OPTIONS: Available in a wide range of sizes, colors, patterns",
     "features": [
-      "Premium quality",
-      "Elegant design",
-      "Durable and long-lasting",
-      "Export grade"
+      "Strong handles, superior stitching, and elegant finishing",
+      "Offers both functionality and a modern aesthetic appeal",
+      "Reusable and sustainable eco-friendly materials"
     ],
     "image": "/HOME/8. FABRIC BAGS & JUTE BAGS/stb004-front-img-black-500x500.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Exceptional quality standards",
-      "Perfect for luxury spaces",
-      "Available for global export"
+      "Customized printing options available",
+      "Perfect sustainable packaging solution for businesses and personal use"
     ]
   }
 ];

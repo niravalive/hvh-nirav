@@ -155,11 +155,38 @@ const ProductDetailPage = () => {
               {product.name.split(' - Variant')[0].trim()}
             </h1>
 
-            <div className="space-y-3 mb-6">
+            <div className="space-y-4 mb-6">
               {allDescs.map((desc, idx) => (
-                <p key={idx} className="text-base text-primary/60 leading-relaxed font-medium">
-                  {desc}
-                </p>
+                <div key={idx} className="space-y-3">
+                  {desc.split('\n').map((line, lineIdx, arr) => {
+                    // Skip the first line if it's an uppercase title, since we already have the main H1 title above
+                    if (lineIdx === 0 && arr.length > 1 && line === line.toUpperCase()) {
+                      return null;
+                    }
+
+                    const colonIndex = line.indexOf(':');
+                    // Check if it's a key-value style line
+                    if (colonIndex !== -1 && colonIndex < 50) {
+                      const key = line.substring(0, colonIndex + 1);
+                      const value = line.substring(colonIndex + 1);
+                      return (
+                        <div key={lineIdx} className="bg-primary/5 p-4 rounded-xl border border-primary/10">
+                          <p className="text-base text-primary/70 leading-relaxed">
+                            <strong className="text-primary font-black tracking-wide">{key}</strong>
+                            <span className="font-medium">{value}</span>
+                          </p>
+                        </div>
+                      );
+                    }
+                    return (
+                      <div key={lineIdx} className="bg-primary/5 p-4 rounded-xl border border-primary/10">
+                        <p className="text-base text-primary/70 leading-relaxed font-medium">
+                          {line}
+                        </p>
+                      </div>
+                    );
+                  })}
+                </div>
               ))}
             </div>
 
@@ -195,10 +222,31 @@ const ProductDetailPage = () => {
         {allSpecs.length > 0 && (
           <div className="bg-primary p-10 rounded-[2.5rem] border border-accent/20 mb-10 shadow-2xl relative overflow-hidden">
             <div className="absolute top-0 right-0 w-32 h-32 bg-accent/10 rounded-full blur-3xl -mr-16 -mt-16" />
-            <h3 className="text-xs font-black text-accent uppercase tracking-widest mb-4">Technical Specifications</h3>
-            <div className="space-y-3">
+            <h3 className="text-xs font-black text-accent uppercase tracking-widest mb-4">
+              {product.category === 'home-decor' ? 'Product Details' : 'Technical Specifications'}
+            </h3>
+            <div className="space-y-6">
               {allSpecs.map((spec, idx) => (
-                <p key={idx} className="text-white text-lg font-bold leading-snug">{spec}</p>
+                <div key={idx} className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  {spec.split('\n').map((line, lineIdx) => {
+                    const colonIndex = line.indexOf(':');
+                    if (colonIndex !== -1) {
+                      const key = line.substring(0, colonIndex);
+                      const value = line.substring(colonIndex + 1);
+                      return (
+                        <div key={lineIdx} className="bg-white/5 p-4 rounded-xl border border-accent/20 flex flex-col justify-center">
+                          <span className="block text-accent text-[10px] font-black uppercase tracking-widest mb-1">{key}</span>
+                          <span className="block text-white text-sm font-bold">{value.trim()}</span>
+                        </div>
+                      );
+                    }
+                    return (
+                      <div key={lineIdx} className="bg-white/5 p-4 rounded-xl border border-accent/20 col-span-1 sm:col-span-2">
+                        <span className="block text-white text-sm font-bold">{line}</span>
+                      </div>
+                    );
+                  })}
+                </div>
               ))}
             </div>
           </div>
