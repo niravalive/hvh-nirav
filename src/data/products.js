@@ -4,7 +4,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 1",
-    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "desc": "HOUSE WIRES\nFlame Retardant(FR) single core wires: FR single core wires has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nFlame Retardant, Low Smoke & Halogen(FR-LHS) single core wires: FR-LSH single core wires has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nZero Smoke Flame Retardant(ZHFR) Single Core wires: ZHFR single core wires has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
     "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
     "features": [
       "Flame Retardant (FR/FR-LSH/ZHFR)",
@@ -25,7 +25,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 2",
-    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "desc": "HOUSE WIRES\nFlame Retardant(FR) single core wires: FR single core wires has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nFlame Retardant, Low Smoke & Halogen(FR-LHS) single core wires: FR-LSH single core wires has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nZero Smoke Flame Retardant(ZHFR) Single Core wires: ZHFR single core wires has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
     "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
     "features": [
       "Flame Retardant (FR/FR-LSH/ZHFR)",
@@ -46,7 +46,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 3",
-    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "desc": "HOUSE WIRES\nFlame Retardant(FR) single core wires: FR single core wires has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nFlame Retardant, Low Smoke & Halogen(FR-LHS) single core wires: FR-LSH single core wires has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nZero Smoke Flame Retardant(ZHFR) Single Core wires: ZHFR single core wires has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
     "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
     "features": [
       "Flame Retardant (FR/FR-LSH/ZHFR)",
@@ -67,7 +67,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 4",
-    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "desc": "HOUSE WIRES\nFlame Retardant(FR) single core wires: FR single core wires has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nFlame Retardant, Low Smoke & Halogen(FR-LHS) single core wires: FR-LSH single core wires has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nZero Smoke Flame Retardant(ZHFR) Single Core wires: ZHFR single core wires has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
     "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
     "features": [
       "Flame Retardant (FR/FR-LSH/ZHFR)",
@@ -88,7 +88,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 5",
-    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "desc": "HOUSE WIRES\nFlame Retardant(FR) single core wires: FR single core wires has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nFlame Retardant, Low Smoke & Halogen(FR-LHS) single core wires: FR-LSH single core wires has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nZero Smoke Flame Retardant(ZHFR) Single Core wires: ZHFR single core wires has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
     "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
     "features": [
       "Flame Retardant (FR/FR-LSH/ZHFR)",
@@ -109,7 +109,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Single Core - Variant 6",
-    "desc": "HOUSE WIRES\nHOME CAB (FR): KEI Home cab has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nCONFLAMES (FR-LSH): KEI Conflame has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nBANFIRE (ZHFR): KEI Banfire has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
+    "desc": "HOUSE WIRES\nFlame Retardant(FR) single core wires: FR single core wires has a specially formulated insulation with higher oxygen and temperature index FR properties which enable the cable to withstand overloads.\nFlame Retardant, Low Smoke & Halogen(FR-LHS) single core wires: FR-LSH single core wires has a specially formulated flame retardant PVC compound that not only emits less smoke and toxic gases but also retards the spread of fire.\nZero Smoke Flame Retardant(ZHFR) Single Core wires: ZHFR single core wires has a ZHFR compound which does not emit toxic or poisonous fumes in a fire situation thus enabling safe evacuation of people during an emergency and efficient fire fighting. This is a 100% eco-friendly wire.",
     "specs": "CONDUCTOR: Annealed Bare Copper, Annealed Tinned Copper\nINSULATION: PVC/HRPVC/FR-LSH/FR/ZHFR\nVOLTAGE GRADE: Upto 1100 V\nPRODUCT RANGE: 0.5 sq.mm. upto 16.0 sq.mm.",
     "features": [
       "Flame Retardant (FR/FR-LSH/ZHFR)",
@@ -681,20 +681,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Primium Modular Switches - Variant 1",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture1.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -702,20 +702,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Primium Modular Switches - Variant 2",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture2.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -723,20 +723,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Primium Modular Switches - Variant 3",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture8.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -744,20 +744,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Primium Modular Switches - Variant 4",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/1. PRIMIUM MODULAR SWITCHES/Picture9.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -765,20 +765,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 1",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/105411.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -786,20 +786,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 2",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/51eoERklI2L._SL1500_.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -807,20 +807,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 3",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/ELE.JUN.527746228_1729835709729.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -828,20 +828,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 4",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/MOD BOX.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -849,20 +849,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 5",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/NON MODULAR SWITCH.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -870,20 +870,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 6",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/WhatsAppImage2024-11-26at90404PM-1732951716352.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -891,20 +891,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 7",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/electrical-non-modular-switches-250x250.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -912,20 +912,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 8",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/electrical-switches-651.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -933,20 +933,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 9",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/jm_16_009_n-main-250X250.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -954,20 +954,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 10",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/petro.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -975,20 +975,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 11",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/product-jpeg-500x500 (1).jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -996,20 +996,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 12",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/product-jpeg-500x500.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -1017,20 +1017,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 13",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/pvc-modular-box.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -1038,20 +1038,20 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switch and Accessories",
     "name": "Non Modular Switch And Mounting Acc - Variant 14",
-    "desc": "Explore our premium switch and accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Our premium range of switches and electrical accessories is designed to deliver superior safety, durability, elegant appearance, and reliable performance for residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Elegant and modern design",
+      "Flame-retardant and shock-proof materials",
+      "High conductivity and durable components",
+      "Easy installation and low maintenance",
+      "Long mechanical and electrical life",
+      "Available in various ratings, colours, and configurations"
     ],
     "image": "/ELECTRICAL/2. SWITCH ACC/2. NON MODULAR SWITCH AND MOUNTING ACC/pvc-modular-concealed-box-with-adjustable-rivet-made-with-purest-quality-material-which-provide-you-full-safety--667.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Homes, offices, hotels, hospitals, shopping malls, educational institutions, industrial facilities, infrastructure projects, and commercial buildings."
     ]
   },
   {
@@ -1059,20 +1059,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 1",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/17453-1350_image_0.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1080,20 +1081,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 2",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/592915504_122107556547121036_3495656877299448043_n.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1101,20 +1103,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 3",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/MCB.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1122,20 +1125,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 4",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/RCCB.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1143,20 +1147,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 5",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/Screenshot (1).png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1164,20 +1169,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 6",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/Waterproof-Junction-Box-Series.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1185,20 +1191,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 7",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/Wholesale-Price-DIN-Rail-Mounting-RCBO-RCCB-MCB-Residual-Current-Circuit-Breaker.avif",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1206,20 +1213,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 8",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/dbs-min.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1227,20 +1235,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 9",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/download.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1248,20 +1257,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 10",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/gm_l_0502_na-white-250X250.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1269,20 +1279,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 11",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/pb610010050-100x100x60mm-junction-box-ip67-sq.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1290,20 +1301,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 12",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/picture-mcb-isolated-on-white-260nw-1862467990.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1311,20 +1323,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Switchgears",
     "name": "Switchgears - Variant 13",
-    "desc": "Explore our premium switchgears collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Switchgears are electrical devices used to control, protect, and isolate electrical equipment and power systems. They play a critical role in ensuring the safe and efficient distribution of electricity in residential, commercial, and industrial applications.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical and mechanical durability",
+      "Reliable protection against overload and short circuits",
+      "Safe and easy operation",
+      "Compact and robust design",
+      "Low maintenance requirements",
+      "Available in Low Voltage (LV), Medium Voltage (MV), and High Voltage (HV) ranges",
+      "Manufactured as per IEC, IS, and international standards"
     ],
     "image": "/ELECTRICAL/3. SWITCHGEARS/pvc-junction-box.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Industrial Power Distribution, Commercial Buildings, Infrastructure & Construction Projects, Data Centres, Oil & Gas Industries, Renewable Energy Projects, Residential Complexes"
     ]
   },
   {
@@ -1332,293 +1345,294 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 1",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/3lighting.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-68",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 2",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/3lightingggg.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-69",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 3",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/4260c677-2b90-42f8-81c1-658074adf362.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-70",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 4",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/adujstable light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-71",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 5",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/aluminium adjustable cob downlight.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-72",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 6",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/base light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-73",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 7",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/cob downlight.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-74",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 8",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/deep downlight.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-75",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 9",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/downlight1.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-76",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 10",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/junction light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-77",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 11",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/rimless surface.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-78",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 12",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/spot light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-79",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Ceiling Light - Variant 13",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "Premium quality LED ceiling light with elegant design, high brightness, and energy-efficient performance.",
+    "specs": "Voltage: 220–240V AC\nFrequency: 50/60Hz\nBody Material: Polycarbonate / Aluminium\nLight Source: LED\nColour Temperature: Warm White / Cool White / Daylight\nIP Rating: Optional as per requirement\nMounting Type: Surface / Recessed",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy-efficient LED technology",
+      "High brightness with low power consumption",
+      "Long lifespan and low maintenance",
+      "Elegant and modern design",
+      "Easy installation",
+      "Uniform light distribution",
+      "Available in multiple wattages, sizes, and colour temperatures",
+      "Suitable for homes, offices, hotels, malls, hospitals, and commercial spaces"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/1. CEILING LIGHT/step panel.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-80",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 1",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/32dbb8c36ee1d11456f5463bec07e3b1.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1626,20 +1640,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 2",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/3553f0534205b93dc148bf926019a05d.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1647,20 +1662,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 3",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/3lightssss.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1668,20 +1684,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 4",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/5dcb5b9892d24c7ce24d0d78bdeae89e.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1689,20 +1706,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 5",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/9f61e61489a43506040db038ce859d5e.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1710,20 +1728,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 6",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/Picture22.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1731,20 +1750,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 7",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/Picture23.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1752,20 +1772,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 8",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/c24658d53adb6a66bc4ed1ba7fd978a7.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1773,20 +1794,21 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Tubelights And Lamps - Variant 9",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "High-quality LED Tube Lights and LED Bulbs designed for superior illumination, energy efficiency, and long-lasting performance.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "Energy Efficient & Cost Saving",
+      "High Brightness with Low Power Consumption",
+      "Long Service Life",
+      "Flicker-Free Performance",
+      "Eco-Friendly & Low Heat Emission",
+      "Elegant, Durable & Easy-to-Install Design",
+      "Available in Multiple Wattages, Sizes & Colors"
     ],
     "image": "/ELECTRICAL/4. LIGHTING/2. TUBELIGHTS AND LAMPS/f0cad5d990db510ba9d1bd7cd6b813e2.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Residential & Commercial Projects, Offices & Corporate Spaces, Hotels, Hospitals & Institutions, Retail Stores & Showrooms, Warehouses & Industrial Facilities"
     ]
   },
   {
@@ -1794,440 +1816,263 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Decorative Lights - Variant 1",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "Enhance your interiors with premium decorative lighting solutions designed to add elegance, warmth, and modern aesthetics to every space. Our decorative lights combine stylish designs with energy-efficient performance, making them ideal for residential, commercial, hospitality, and architectural applications.\nAvailable in various contemporary, classic, and customized designs, our decorative lighting range includes pendant lights, rope light, wall lights, ceiling lights, and ambient fixtures suitable for diverse interior themes.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/3. DECORATIVE LIGHTS/3ledlight.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-90",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Decorative Lights - Variant 2",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "Enhance your interiors with premium decorative lighting solutions designed to add elegance, warmth, and modern aesthetics to every space. Our decorative lights combine stylish designs with energy-efficient performance, making them ideal for residential, commercial, hospitality, and architectural applications.\nAvailable in various contemporary, classic, and customized designs, our decorative lighting range includes pendant lights, rope light, wall lights, ceiling lights, and ambient fixtures suitable for diverse interior themes.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/3. DECORATIVE LIGHTS/3lighhts.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-91",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Decorative Lights - Variant 3",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "Enhance your interiors with premium decorative lighting solutions designed to add elegance, warmth, and modern aesthetics to every space. Our decorative lights combine stylish designs with energy-efficient performance, making them ideal for residential, commercial, hospitality, and architectural applications.\nAvailable in various contemporary, classic, and customized designs, our decorative lighting range includes pendant lights, rope light, wall lights, ceiling lights, and ambient fixtures suitable for diverse interior themes.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/3. DECORATIVE LIGHTS/rgb strip.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-92",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Decorative Lights - Variant 4",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "Enhance your interiors with premium decorative lighting solutions designed to add elegance, warmth, and modern aesthetics to every space. Our decorative lights combine stylish designs with energy-efficient performance, making them ideal for residential, commercial, hospitality, and architectural applications.\nAvailable in various contemporary, classic, and customized designs, our decorative lighting range includes pendant lights, rope light, wall lights, ceiling lights, and ambient fixtures suitable for diverse interior themes.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/3. DECORATIVE LIGHTS/rope light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-93",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Decorative Lights - Variant 5",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "Enhance your interiors with premium decorative lighting solutions designed to add elegance, warmth, and modern aesthetics to every space. Our decorative lights combine stylish designs with energy-efficient performance, making them ideal for residential, commercial, hospitality, and architectural applications.\nAvailable in various contemporary, classic, and customized designs, our decorative lighting range includes pendant lights, rope light, wall lights, ceiling lights, and ambient fixtures suitable for diverse interior themes.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/3. DECORATIVE LIGHTS/step light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-94",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Decorative Lights - Variant 6",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "Enhance your interiors with premium decorative lighting solutions designed to add elegance, warmth, and modern aesthetics to every space. Our decorative lights combine stylish designs with energy-efficient performance, making them ideal for residential, commercial, hospitality, and architectural applications.\nAvailable in various contemporary, classic, and customized designs, our decorative lighting range includes pendant lights, rope light, wall lights, ceiling lights, and ambient fixtures suitable for diverse interior themes.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/3. DECORATIVE LIGHTS/wall light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-95",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 1",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/0fe418f962fc1aabea0eb593d4cd4ee3.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-96",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 2",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/3lights.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-97",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 3",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/58bb3d0fab6b94bc3aff6206b1a2cc74.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-98",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 4",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/70cceb69fc5b55046b46b91e31e5b718.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-99",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 5",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/8d18f385973ae890d45a27b792fb1b18.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-100",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 6",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/9a6df8dacf3009e01da939840cf08f9f.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-101",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 7",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/aa8ab05cd55cd6b8708d54a2174d7ab6.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-102",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 8",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/dceed7c6a30a0568f05d2be6fab13828.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-103",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 9",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/e72ef1bdb0f706811aa630a507517b2c.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-104",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 10",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/ecdf8ca287bdeaa9c2d9f56f2c4e09bd.jpg",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-105",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 11",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/floob light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-106",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 12",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/flood light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-107",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 13",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/street light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-108",
     "category": "electricals",
     "subCategory": "Lighting",
     "name": "Industrial And Outdoor Light - Variant 14",
-    "desc": "Explore our premium lighting collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
-    "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
-    ],
+    "desc": "HVH Global offers a complete range of high-performance outdoor and industrial lighting solutions designed for durability, energy efficiency, and superior illumination.\nOur lighting range includes LED flood lights, street lights, high bay lights, low bay lights, wall lights, canopy lights, explosion-proof fixtures, and customized industrial lighting systems.",
+    "specs": "",
+    "features": [],
     "image": "/ELECTRICAL/4. LIGHTING/4. INDUSTRIAL & OUTDOOR LIGHT/wall light.png",
     "priceRange": "Project Quote",
-    "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
-    ]
+    "keyPoints": []
   },
   {
     "id": "prod-elec-109",
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Cable Glands - Variant 1",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/1. CABLE GLANDS/1fd34b08d71b2c7efd3ddb211c488b30.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2235,20 +2080,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Cable Glands - Variant 2",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/1. CABLE GLANDS/20af11f91606c7728d44e4eaa65dcb84.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2256,20 +2104,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Cable Glands - Variant 3",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/1. CABLE GLANDS/ba1e16845bcc5607ed762d1f98371e29.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2277,20 +2128,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Cable Glands - Variant 4",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/1. CABLE GLANDS/brass-cable-glands-500x500.webp",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2298,20 +2152,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Cable Glands - Variant 5",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/1. CABLE GLANDS/double-compression-cable-gland_6.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2319,20 +2176,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 1",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG1.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2340,20 +2200,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 2",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG2.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2361,20 +2224,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 3",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG4.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2382,20 +2248,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 4",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG5.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2403,20 +2272,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 5",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG6.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2424,20 +2296,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 6",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG7.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2445,20 +2320,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 7",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG8.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2466,20 +2344,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 8",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUG9.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2487,20 +2368,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 9",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUGS.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2508,20 +2392,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 10",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUGS.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2529,20 +2416,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 11",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUGS2.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2550,20 +2440,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 12",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUGS3.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2571,20 +2464,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Lugs - Variant 13",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/2.LUGS/LUGS7.jpeg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2592,20 +2488,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Tools - Variant 1",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/3.TOOLS/3e5aa8504f4d812390f88cf39099983e.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2613,20 +2512,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Tools - Variant 2",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/3.TOOLS/5b78dd4f046c239f7f60f5ce2fc0cd40.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2634,20 +2536,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Tools - Variant 3",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/3.TOOLS/8df72e17315de35aa919bd5c6324a3cb.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2655,20 +2560,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Tools - Variant 4",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/3.TOOLS/CABLE TIE.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2676,20 +2584,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Tools - Variant 5",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/3.TOOLS/HDPE CORROGATED PIPE.jpg",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {
@@ -2697,20 +2608,23 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Cable Accessories",
     "name": "Tools - Variant 6",
-    "desc": "Explore our premium cable accessories collection. Engineered for safety and superior performance.",
-    "specs": "Industrial Grade Standards",
+    "desc": "HVH Global offers a comprehensive range of high-quality cable accessories designed to ensure safe, reliable, and efficient electrical connections for residential, commercial, and industrial applications.\nThe range includes cable glands, cable lugs, connectors, junction boxes, termination kits, heat shrinkable sleeves, ferrules, cable ties, insulation tapes, and earthing accessories suitable for low, medium, and high-voltage applications. These accessories are engineered for superior conductivity, mechanical strength, corrosion resistance, and easy installation under demanding operating conditions.",
+    "specs": "",
     "features": [
-      "High performance",
-      "Certified quality",
-      "Durable and reliable",
-      "Export grade"
+      "High electrical conductivity",
+      "Excellent mechanical strength",
+      "Corrosion and heat resistant",
+      "Easy and secure installation",
+      "Long operational life",
+      "Flame retardant and weather resistant options available",
+      "Suitable for industrial and commercial applications"
     ],
     "image": "/ELECTRICAL/5. CABLE ACC/3.TOOLS/TOOLS.png",
     "priceRange": "Project Quote",
     "keyPoints": [
-      "Complies with international safety standards",
-      "Designed for commercial and industrial use",
-      "Ready for global export"
+      "Applications: Power transmission & distribution, Electrical panels & switchboards, Industrial machinery, Construction & infrastructure projects, Renewable energy installations, Commercial and residential wiring systems",
+      "Available Materials: Brass, Copper, Aluminium, PVC / Nylon / Polyamide, Stainless Steel",
+      "Standards: Manufactured as per relevant IS, IEC, BS, and international standards depending on product specifications."
     ]
   },
   {

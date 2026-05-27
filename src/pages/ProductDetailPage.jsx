@@ -166,7 +166,7 @@ const ProductDetailPage = () => {
 
                     const colonIndex = line.indexOf(':');
                     // Check if it's a key-value style line
-                    if (colonIndex !== -1 && colonIndex < 50) {
+                    if (colonIndex !== -1 && colonIndex < 100) {
                       const key = line.substring(0, colonIndex + 1);
                       const value = line.substring(colonIndex + 1);
                       return (

@@ -184,7 +184,10 @@ const AboutPage = () => {
                 </div>
                 <h3 className="text-2xl md:text-3xl font-bold text-primary mb-4 md:mb-6 leading-tight">Since 1968: Global Electrical Leadership</h3>
                 <p className="text-base md:text-xl text-primary/80 leading-relaxed">
-                  Founded in 1968, we have grown into a global leader in wire and cable solutions, now operating as an Indian MNC with a turnover exceeding INR 8,000 crore. With five state-of-the-art manufacturing units and a vast network of 30,000+ channel partners, we serve clients in over 65 countries. Our one-stop-shop approach provides comprehensive solutions for everything from residential wiring to high-voltage industrial infrastructure, powering the world with uncompromising quality.
+                  We bring over 50 years of excellence in the electrical industry, delivering innovative and reliable solutions across diverse markets. Our extensive product range includes switches & accessories, switchgear, wires & cables, cable accessories, and advanced lighting solutions tailored for industrial, commercial, and retail applications.
+                  <br />
+                  <br />
+                  Driven by quality, technology, and customer trust, we are now expanding our footprint into international markets with a commitment to providing world-class electrical products that meet global standards of safety, efficiency, and performance.
                 </p>
               </div>
             </motion.div>
