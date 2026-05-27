@@ -377,7 +377,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 1",
-    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nKEI is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nHVH is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
     "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
     "features": [
       "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
@@ -395,7 +395,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 2",
-    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nKEI is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nHVH is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
     "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
     "features": [
       "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
@@ -413,7 +413,7 @@ const productsData = [
     "category": "electricals",
     "subCategory": "Wire and Cable",
     "name": "Ehv Cables - Variant 3",
-    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nKEI is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
+    "desc": "EHV CABLES (EXTRA HIGH VOLTAGE CABLES)\nHVH is under technical collaboration with BRUGG to manufacture EHV cables upto 400 kV.\nCustomized cable design as per project/customer requirement available.\nCable accessories can be offered if required.",
     "specs": "VOLTAGE RATING: 66 kV to 400 kV\nCONDUCTOR: Copper/Aluminium (Stranded Compacted Circular or Segmented)/Enameled Copper\nINSULATION: Extruded Super Clean XLPE Layer",
     "features": [
       "PRODUCT RANGE: EHV Cables up to 2500 sq.mm.",
